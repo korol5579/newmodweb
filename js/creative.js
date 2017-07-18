@@ -125,6 +125,16 @@
     $(this).toggleClass("is-active");
   });
 
+  var canvasDiv = document.getElementById('particle-canvas');
+  var options = {
+  particleColor: '#4169E0',
+  background: '../img/header_2.jpg',
+  interactive: true,
+  speed: 'medium',
+  density: 'high'
+  };
+
+   var particleCanvas = new ParticleNetwork(canvasDiv, options);
 
     
 })(jQuery); // End of use strict
