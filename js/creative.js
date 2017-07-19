@@ -137,4 +137,22 @@
    var particleCanvas = new ParticleNetwork(canvasDiv, options);
 
     
+   //Popover
+  
+    $('.social-btns a').popover({
+        trigger: 'hover',
+        placement: 'top',
+        template: '<div class="popover" role="tooltip">'
+            + '<div class="arrow"></div><h3 class="popover-title yellow">'
+            + '</h3><div class="popover-content"></div></div>'
+    }); 
+
+    $('.social-btns a').click(function(){
+        var title = $(this).attr('data-link');
+        var href = $(this).attr('href');
+        $('.custom-tooltip').html('<a href="' + href + '" target="_blank">'+ title + '</a>');
+        return false;
+    })
+
+ 
 })(jQuery); // End of use strict
