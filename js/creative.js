@@ -93,7 +93,7 @@
     //Бегущие буквы
     
     var options = {
-       strings: ["Less, Github, Node Js, Jsfiddle, Htmlbook, Htmlacademy, Codepen, Web Storm, Php Storm, Sub Lime text 3, Gulp",
+       strings: ["Less, Github, Node Js, Jsfiddle, Htmlbook, Htmlacademy, Codepen, Web Storm, Php Storm, Sub Lime text 3, Gulp,",
        "Полезно знать:"],
        typeSpeed: 150,
        loop: true

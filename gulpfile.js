@@ -80,10 +80,14 @@ gulp.task('default', ['less', 'minify-css', 'minify-js', 'copy']);
 
 // Configure the browserSync task
 gulp.task('browserSync', function() {
+    // browserSync.init({
+    //     server: {
+    //         baseDir: ''
+    //     },
+    // })
     browserSync.init({
-        server: {
-            baseDir: ''
-        },
+     proxy: "newmodweb.loc",
+     notify: false
     })
 })
 
@@ -94,6 +98,7 @@ gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js'], function() 
     gulp.watch('js/*.js', ['minify-js']);
     // Reloads the browser whenever HTML or JS files change
     gulp.watch('*.html', browserSync.reload);
+    gulp.watch('*.php', browserSync.reload);
     gulp.watch('js/**/*.js', browserSync.reload);
 });
 

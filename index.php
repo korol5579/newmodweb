@@ -1,3 +1,4 @@
+<?php   include 'stat.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
