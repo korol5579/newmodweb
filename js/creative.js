@@ -143,7 +143,7 @@
         trigger: 'hover',
         placement: 'top',
         template: '<div class="popover" role="tooltip">'
-            + '<div class="arrow"></div><h3 class="popover-title yellow">'
+            + '<div class="arrow"></div><h3 class="popover-title popover-title-background">'
             + '</h3><div class="popover-content"></div></div>'
     }); 
 
