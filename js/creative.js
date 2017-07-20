@@ -170,7 +170,7 @@
                 el.css('background-image', 'url("../img/header_2.jpg")' );
                 setTimeout(function(){ 
                     el.css('background-image', 'url("../img/header_1.jpg")');
-                }, 1500) 
+                }, 3000) 
             } else if (el.css('background-image').indexOf('header_2.jpg')+1) {
                 el.css('background-image', 'url("../img/header_1.jpg")' );
             }
