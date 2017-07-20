@@ -154,5 +154,15 @@
         return false;
     })
 
+    $('#homeHeading').click(function() {
+        $.each($('header>div'),function(index, elem) {
+            var el = $(elem);
+            console.log(el);
+            if (el.css('background-image') == 'url("../img/header_2.jpg")') {
+                el.css('background-image', 'url("../img/header_3.jpg")' );
+            }
+        })
+    })
+
  
 })(jQuery); // End of use strict
