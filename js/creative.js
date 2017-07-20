@@ -147,10 +147,18 @@
             + '</h3><div class="popover-content"></div></div>'
     }); 
 
-    $('.social-btns a').click(function(){
+    $('.social-btns a').click(function(event){
+        event.preventDefault();
+        var clicked = $(this);
+        var displayed = $('.custom-tooltip');
         var title = $(this).attr('data-link');
         var href = $(this).attr('href');
-        $('.custom-tooltip').html('<a href="' + href + '" target="_blank">'+ title + '</a>');
+        displayed.html('<a href="' + href + '" target="_blank">'+ title + '</a>');
+        var clickedElCenter = $(clicked).offset().left + parseInt($(clicked).css('width'))/2;
+        var displayedElLeft = clickedElCenter
+          - $(displayed).offsetParent().offset().left
+          - parseInt($(displayed).css('width'))/2; 
+        $(displayed).css('left', displayedElLeft);
         return false;
     })
 
