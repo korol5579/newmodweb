@@ -154,12 +154,14 @@
         return false;
     })
 
+    $('#particle-canvas').append('<img class="hidden" src="/img/header_3.jpg">');
     $('#homeHeading').click(function() {
         $.each($('header>div'),function(index, elem) {
             var el = $(elem);
-            console.log(el);
-            if (el.css('background-image') == 'url("../img/header_2.jpg")') {
+            if (el.css('background-image').indexOf('header_4.jpg')+1) {
                 el.css('background-image', 'url("../img/header_3.jpg")' );
+            } else if (el.css('background-image').indexOf('header_3.jpg')+1) {
+                el.css('background-image', 'url("../img/header_4.jpg")' );
             }
         })
     })
