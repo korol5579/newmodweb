@@ -652,7 +652,35 @@
     <h3></h3><a href="">Restart</a>
   </div>
 </div>
-<h5>Note: use the Full Page view for the best experience.</h5>
+
+<!-- Beauty animated buttons -->
+<section class="custom-buttons">
+  <div class="container">
+    <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-1">
+      <svg>
+        <rect x="0" y="0" fill="none" width="100%" height="100%"/>
+      </svg>
+     Hover
+    </a>
+    <!--svg hover inspired by https://codepen.io/karimbalaa/pen/qERbBY?editors=110 -->
+    <!--End of Button 1 -->
+    
+    <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-2">Hover</a> 
+    <!--End of Button 2 -->
+    
+    <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-3">Hover</a> 
+    <!--End of Button 3 -->
+    
+    <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-4"><span>Hover</span></a> 
+    <!--End of Button 4 -->
+    
+    <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-5">Hover</a> 
+    <!--End of Button 5 -->
+    
+    <p>Follow on <a href="https://twitter.com/Dave_Conner" target="_blank">Twitter</a></p>
+  </div>
+  
+</section>
 
     <section id="contact">
         <div class="container">
