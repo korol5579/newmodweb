@@ -951,6 +951,9 @@ a {
   position: fixed;
   top: 50px;
 }
+#mp-pusher {
+  z-index: 51;
+}
 #arrow-up-scroll {
   margin-left: 50%;
   display: block;
