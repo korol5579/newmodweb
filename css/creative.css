@@ -169,7 +169,6 @@ header .header-content {
   pointer-events: none;
 }
 header .header-content .header-content-inner {
-  pointer-events: auto;
   background-color: rgba(0, 0, 0, 0.4);
   padding: 20px;
   display: none;
@@ -181,6 +180,11 @@ header .header-content .header-content-inner h1 {
   margin-bottom: 0;
   font-size: 30px;
   background-color: rgba(0, 0, 0, 0.4);
+  pointer-events: auto;
+}
+header .header-content .header-content-inner h1:hover {
+  color: #4682B4;
+  cursor: pointer;
 }
 header .header-content .header-content-inner hr {
   margin: 20px auto;
@@ -191,6 +195,11 @@ header .header-content .header-content-inner p {
   margin-bottom: 35px;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   margin-top: 15px;
+  pointer-events: auto;
+}
+header .header-content .header-content-inner p:hover {
+  color: #4682B4;
+  cursor: pointer;
 }
 header .header-content .header-content-inner p#header-content-quality {
   font-weight: 300;
@@ -501,6 +510,7 @@ input:focus::-webkit-input-placeholder {
   font-size: 40px;
   color: #fff;
   background: 0 0;
+  pointer-events: auto;
 }
 .btn-circle:hover,
 .btn-circle:focus {
@@ -967,10 +977,6 @@ a {
   border-radius: 100%!important;
   color: #000;
   background: 0 0;
-}
-h1:hover {
-  color: #4682B4;
-  cursor: pointer;
 }
 .header-content-inner p:hover {
   color: #4682B4;

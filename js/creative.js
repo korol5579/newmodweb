@@ -128,7 +128,7 @@
   var canvasDiv = document.getElementById('particle-canvas');
   var options = {
   particleColor: '#4169E0',
-  background: '../img/header_4.jpg',
+  background: '../img/header_1.jpg',
   interactive: true,
   speed: 'medium',
   density: 'high'
@@ -154,14 +154,17 @@
         return false;
     })
 
-    $('#particle-canvas').append('<img class="hidden" src="/img/header_3.jpg">');
-    $('#homeHeading').click(function() {
+    $('#particle-canvas').append('<img class="hidden" src="/img/header_2.jpg">');
+    $('#homeHeading, .header-inner-tech').click(function() {
         $.each($('header>div'),function(index, elem) {
             var el = $(elem);
-            if (el.css('background-image').indexOf('header_4.jpg')+1) {
-                el.css('background-image', 'url("../img/header_3.jpg")' );
-            } else if (el.css('background-image').indexOf('header_3.jpg')+1) {
-                el.css('background-image', 'url("../img/header_4.jpg")' );
+            if (el.css('background-image').indexOf('header_1.jpg')+1) {
+                el.css('background-image', 'url("../img/header_2.jpg")' );
+                setTimeout(function(){ 
+                    el.css('background-image', 'url("../img/header_1.jpg")');
+                }, 1500) 
+            } else if (el.css('background-image').indexOf('header_2.jpg')+1) {
+                el.css('background-image', 'url("../img/header_1.jpg")' );
             }
         })
     })

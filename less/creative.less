@@ -178,7 +178,6 @@ header {
         z-index: 2;
         pointer-events: none;
         .header-content-inner {
-            pointer-events: auto;
             background-color: rgba(0,0,0,0.4);
             padding: 20px;
             display: none;
@@ -189,7 +188,14 @@ header {
                 margin-bottom: 0;
                 font-size: 30px;
                 background-color: rgba(0,0,0,0.4);
+                pointer-events: auto;
             }
+
+            h1:hover {
+                color:   #4682B4;
+                cursor: pointer;
+            }
+
             hr {
                 margin: 20px auto;
             }
@@ -199,6 +205,12 @@ header {
                 margin-bottom: 35px;
                 font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
                 margin-top: 15px;
+                pointer-events: auto;
+            }
+
+            p:hover {
+                color:   #4682B4;
+                cursor: pointer;
             }
             
             p#header-content-quality {
@@ -465,6 +477,7 @@ input:focus::-webkit-input-placeholder {
     font-size: 40px;
     color: #fff;
     background: 0 0;
+    pointer-events: auto;
     
 }   
 
@@ -1016,10 +1029,9 @@ a {
     background: 0 0;
 }
 
-h1:hover {
-    color:   #4682B4;
-    cursor: pointer;
-}
+
+
+
 
 .header-content-inner p:hover {
     color:   #4682B4;
