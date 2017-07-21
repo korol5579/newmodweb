@@ -2228,17 +2228,19 @@ input[type="radio"]:checked ~ input[type="radio"]:checked ~ input[type="radio"]:
   cursor: pointer;
 }
 
+//Custom colors
+#about {
+  background-color: @theme-new-secondary;
+}
+
 //Анимированное лого
 
 .animated-logo {
-
-  font: 400 1em/1.5 "Neuton"; 
-  background: #090d00; 
-  color: rgba(255,255,255,.25); 
-  text-align: center; 
-  margin: 0 ;
-  position: absolute;
-  left: 18%;
+    font: 400 1em/1.5 Neuton;
+    color: black;
+    text-align: center;
+    margin: 0;
+    position: relative;
 
 
   p {
@@ -2263,7 +2265,7 @@ input[type="radio"]:checked ~ input[type="radio"]:checked ~ input[type="radio"]:
 
 /* Clip Background Image */
 
-    background: url(../img/covers/animated_text_fill.png) repeat-y;
+    background: url(../img/covers/animated_text_fill_3.png) repeat-y;
     -webkit-background-clip: text;
     background-clip: text;
 
@@ -2293,7 +2295,9 @@ input[type="radio"]:checked ~ input[type="radio"]:checked ~ input[type="radio"]:
 //Beauty animated btns
 
 .custom-buttons {
-
+    background-color: red;
+    width: 1234px;
+    
   .buttons {
   display: table;
   height: 100%;

@@ -2039,14 +2039,15 @@ h5 {
   background-color: #262934;
   cursor: pointer;
 }
+#about {
+  background-color: #D2CD0F;
+}
 .animated-logo {
-  font: 400 1em/1.5 "Neuton";
-  background: #090d00;
-  color: rgba(255, 255, 255, 0.25);
+  font: 400 1em/1.5 Neuton;
+  color: black;
   text-align: center;
-  margin: 0 ;
-  position: absolute;
-  left: 18%;
+  margin: 0;
+  position: relative;
 }
 .animated-logo p {
   text-transform: uppercase;
@@ -2067,7 +2068,7 @@ h5 {
   margin: 0 auto;
   text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
   /* Clip Background Image */
-  background: url(../img/covers/animated_text_fill.png) repeat-y;
+  background: url(../img/covers/animated_text_fill_3.png) repeat-y;
   -webkit-background-clip: text;
   background-clip: text;
   /* Animate Background Image */
@@ -2085,6 +2086,10 @@ h5 {
   100% {
     background-position: 100% 50%;
   }
+}
+.custom-buttons {
+  background-color: red;
+  width: 1234px;
 }
 .custom-buttons .buttons {
   display: table;

@@ -153,12 +153,14 @@
         var displayed = $('.custom-tooltip');
         var title = $(this).attr('data-link');
         var href = $(this).attr('href');
+        var color =  '#3b5998';
         displayed.html('<a href="' + href + '" target="_blank">'+ title + '</a>');
         var clickedElCenter = $(clicked).offset().left + parseInt($(clicked).css('width'))/2;
         var displayedElLeft = clickedElCenter
           - $(displayed).offsetParent().offset().left
           - parseInt($(displayed).css('width'))/2; 
         $(displayed).css('left', displayedElLeft);
+        // $(displayed).css('background-color', color);
         return false;
     })
 

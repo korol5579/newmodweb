@@ -90,11 +90,11 @@
 
 
 
-    <section class="bg-primary" id="about" >
+    <section id="about" >
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 text-center">
-            <h2 class="section-heading">Здесь представлены возможные элементы из которых может
+            <h2 class="section-heading">Здесь представлены различные элементы из которых может
               состоять Ваш сайт.</h2>
               <hr class="light">
               <p class="text-faded">Адаптивный дизайн, кнопки, регистрация, шрифты, различные эффекты, плагины  и другие интересные фичи.</p>
@@ -979,7 +979,7 @@
 <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/EasePack.min.js'></script>
 <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/demo.js'></script>
     <!-- Theme JavaScript -->
-    <script src="js/creative.min.js"></script>
+    <script src="js/creative.js"></script>
 
 
 
