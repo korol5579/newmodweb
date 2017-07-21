@@ -459,29 +459,28 @@
     <hr>
     <!--Слайдер-->
     <p>Слайдеры</p>
-    
+<section id="visual-wrapper">
   <div id="visual">
-    <div class="slide-visual">
-      <!-- Slide Image Area (1000 x 424) -->
-      <ul class="slide-group">
-        <li><img src="slider_img/visual_slide01.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide02.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide03.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide04.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide05.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide06.jpg" alt="slider image" /></li>
-      </ul>
-      
-      
-        <div class="slide-controller">
-          <a href="#" class="btn-prev"><img src="slider_img/btn_prev.png" alt="prev slide" /></a>
-          <a href="#" class="btn-play"><img src="slider_img/btn_play_2.png" alt="start slide" /></a>
-          <a href="#" class="btn-pause"><img src="slider_img/btn_pause.png" alt="pause slide" /></a>
-          <a href="#" class="btn-next"><img src="slider_img/btn_next.png" alt="next slide" /></a>
-        </div>
+      <div class="slide-visual">
+        <!-- Slide Image Area (1000 x 424) -->
+        <ul class="slide-group">
+          <li><img src="slider_img/visual_slide01.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide02.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide03.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide04.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide05.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide06.jpg" alt="slider image" /></li>
+        </ul>
       </div>
+    <div class="slide-controller">
+      <a href="#" class="btn-prev"><img src="slider_img/btn_prev.png" alt="prev slide" /></a>
+      <a href="#" class="btn-play"><img src="slider_img/btn_play_2.png" alt="start slide" /></a>
+      <a href="#" class="btn-pause"><img src="slider_img/btn_pause.png" alt="pause slide" /></a>
+      <a href="#" class="btn-next"><img src="slider_img/btn_next.png" alt="next slide" /></a>
     </div>
-
+  </div>
+</section>
+  
     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button" style="background-color: #000;color:#fff;">Ещё</a>
 
   

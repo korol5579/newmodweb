@@ -74,14 +74,12 @@
 
     })
 
-    $(window).load(function() {
     $('#visual').pignoseParallaxSlider({
         play    : '.btn-play',
         pause   : '.btn-pause',
         next    : '.btn-next',
         prev    : '.btn-prev'
     });
-});
 
     new mlPushMenu(document.getElementById('mp-menu'), document.getElementById('trigger'));
 
