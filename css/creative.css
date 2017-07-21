@@ -1761,9 +1761,6 @@ footer {
     font-size: 3em;
   }
 }
-.popover-title-background {
-  background-color: yellow;
-}
 .popover-title-background .twitter {
   background-color: black;
 }
@@ -1773,9 +1770,10 @@ footer {
 }
 .custom-tooltips .custom-tooltip {
   position: absolute;
-  background-color: yellow;
-  width: 200px;
   text-align: center;
+  padding: 10px;
+  color: #fff;
+  border-radius: 5px;
 }
 h5 {
   font-weight: 400;
