@@ -348,7 +348,8 @@
     </div>
 </section>
 
-<p>Эффект №3, такой-то такой-то, делает то-то то-то</p>
+<hr>
+<h2 class="new-mod-title">Эффект затемнения при наведении</h2>
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
@@ -458,7 +459,7 @@
 
     <hr>
     <!--Слайдер-->
-    <p>Слайдеры</p>
+    <h2 class="new-mod-title">Слайдеры</h2>
     
   <div id="visual">
     <div class="slide-visual">
@@ -482,9 +483,11 @@
       </div>
     </div>
 
-    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button" style="background-color: #000;color:#fff;">Ещё</a>
+<div class="new-mod-center">
+    <a href="#" class="page-scroll btn btn-default btn-xl sr-button new-mod-btn">Ещё</a>
+</div>
 
-  
+  <h2 class="new-mod-title">Крестики нолики на css</h2>
 <div class="tic-tac-toe">
   <input class="player-1 left first-column top first-row first-diagonal turn-1" id="block1-1-1" type="radio"/>
   <label class="turn-1" for="block1-1-1"></label>

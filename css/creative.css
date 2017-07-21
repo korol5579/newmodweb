@@ -2321,3 +2321,14 @@ h5 {
   outline-offset: 15px;
   text-shadow: 1px 1px 2px #427388;
 }
+.new-mod-title {
+  text-align: center;
+}
+.new-mod-center {
+  text-align: center;
+}
+.new-mod-btn {
+  background-color: #000;
+  color: #fff;
+  margin-top: 10px;
+}
