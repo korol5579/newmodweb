@@ -760,89 +760,85 @@
 
 <div class="container">
     <h4>Hamburger Icon Animations</h4>
-    <div class="row cf">
-      <div class="three col">
+    <div class="row">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-1">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-2">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-3">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-4">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-    </div>
-    <div class="row cf">
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-5">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-6">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-7">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-8">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-    </div>
-    <div class="row cf">
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-9">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-10">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-11">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-12">
           <span class="line"></span>
           <span class="line"></span>
@@ -851,7 +847,6 @@
       </div>
     </div>
   </div>
-
   <!-- Анимирование лого на CSS -->
  <div class="animated-logo">  
     <p>
