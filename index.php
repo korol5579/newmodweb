@@ -3,7 +3,6 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -861,13 +860,7 @@
 
 <section id="typing">
   <div class="container">
-    <div class="row">
-      <div class="col-md-4">
-        <span class="type-example"></span>
-      </div>
-      <div class="col-md-4"></div>
-      <div class="col-md-4"></div>
-    </div>
+      <span class="type-example"></span>
   </div>
 </section>
   
@@ -876,16 +869,6 @@
  <a href="#" class="btn btn-circle page-scroll" id="arrow-up-scroll">
                             <i class="fa fa-1x fa-angle-double-up animated"></i>
                 </a>
-
-
- <div class="container demo">
-   <div class="content">
-      <div id="large-header" class="large-header">
-         <canvas id="demo-canvas"></canvas>
-         <h1 class="main-title"><span class="thin">Explore</span> Space</h1>
-      </div>
-   </div>
-</div>
 
   <footer class="flex-rw">
   
