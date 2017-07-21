@@ -74,14 +74,12 @@
 
     })
 
-    $(window).load(function() {
     $('#visual').pignoseParallaxSlider({
         play    : '.btn-play',
         pause   : '.btn-pause',
         next    : '.btn-next',
         prev    : '.btn-prev'
     });
-});
 
     new mlPushMenu(document.getElementById('mp-menu'), document.getElementById('trigger'));
 
@@ -147,20 +145,24 @@
             + '</h3><div class="popover-content"></div></div>'
     }); 
 
+    $.each($('.social-btns a'),function(index, element){
+        $(element).attr('data-primary-color', $(element).find('i').css('color'));
+    });
     $('.social-btns a').click(function(event){
         event.preventDefault();
         var clicked = $(this);
         var displayed = $('.custom-tooltip');
         var title = $(this).attr('data-link');
         var href = $(this).attr('href');
-        var color =  '#3b5998';
+        var color =  clicked.attr('data-primary-color');
+        if (color == 'rgb(255, 255, 255)') color = 'rgb(100, 100, 100)'
         displayed.html('<a href="' + href + '" target="_blank">'+ title + '</a>');
         var clickedElCenter = $(clicked).offset().left + parseInt($(clicked).css('width'))/2;
         var displayedElLeft = clickedElCenter
           - $(displayed).offsetParent().offset().left
           - parseInt($(displayed).css('width'))/2; 
         $(displayed).css('left', displayedElLeft);
-        // $(displayed).css('background-color', color);
+        $(displayed).css('background-color', color);
         return false;
     })
 

@@ -3,7 +3,6 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -459,30 +458,29 @@
 
     <hr>
     <!--Слайдер-->
-    <h2 class="new-mod-title">Слайдеры</h2>
-    
+  <h2 class="new-mod-title">Слайдеры</h2>
+<section id="visual-wrapper">
   <div id="visual">
-    <div class="slide-visual">
-      <!-- Slide Image Area (1000 x 424) -->
-      <ul class="slide-group">
-        <li><img src="slider_img/visual_slide01.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide02.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide03.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide04.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide05.jpg" alt="slider image" /></li>
-        <li><img src="slider_img/visual_slide06.jpg" alt="slider image" /></li>
-      </ul>
-      
-      
-        <div class="slide-controller">
-          <a href="#" class="btn-prev"><img src="slider_img/btn_prev.png" alt="prev slide" /></a>
-          <a href="#" class="btn-play"><img src="slider_img/btn_play_2.png" alt="start slide" /></a>
-          <a href="#" class="btn-pause"><img src="slider_img/btn_pause.png" alt="pause slide" /></a>
-          <a href="#" class="btn-next"><img src="slider_img/btn_next.png" alt="next slide" /></a>
-        </div>
+      <div class="slide-visual">
+        <!-- Slide Image Area (1000 x 424) -->
+        <ul class="slide-group">
+          <li><img src="slider_img/visual_slide01.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide02.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide03.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide04.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide05.jpg" alt="slider image" /></li>
+          <li><img src="slider_img/visual_slide06.jpg" alt="slider image" /></li>
+        </ul>
       </div>
+    <div class="slide-controller">
+      <a href="#" class="btn-prev"><img src="slider_img/btn_prev.png" alt="prev slide" /></a>
+      <a href="#" class="btn-play"><img src="slider_img/btn_play_2.png" alt="start slide" /></a>
+      <a href="#" class="btn-pause"><img src="slider_img/btn_pause.png" alt="pause slide" /></a>
+      <a href="#" class="btn-next"><img src="slider_img/btn_next.png" alt="next slide" /></a>
     </div>
-
+  </div>
+</section>
+  
 <div class="new-mod-center">
     <a href="#" class="page-scroll btn btn-default btn-xl sr-button new-mod-btn">Ещё</a>
 </div>
@@ -658,7 +656,7 @@
 
 <!-- Beauty animated buttons -->
 <section class="custom-buttons">
-  <div class="container">
+  <div class="container-fluid">
     <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-1">
       <svg>
         <rect x="0" y="0" fill="none" width="100%" height="100%"/>
@@ -764,89 +762,85 @@
 
 <div class="container">
     <h4>Hamburger Icon Animations</h4>
-    <div class="row cf">
-      <div class="three col">
+    <div class="row">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-1">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-2">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-3">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-4">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-    </div>
-    <div class="row cf">
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-5">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-6">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-7">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-8">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-    </div>
-    <div class="row cf">
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-9">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-10">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-11">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
         </div>
       </div>
-      <div class="three col">
+      <div class="col-sm-2">
         <div class="hamburger" id="hamburger-12">
           <span class="line"></span>
           <span class="line"></span>
@@ -855,7 +849,6 @@
       </div>
     </div>
   </div>
-
   <!-- Анимирование лого на CSS -->
  <div class="animated-logo">  
     <p>
@@ -870,13 +863,7 @@
 
 <section id="typing">
   <div class="container">
-    <div class="row">
-      <div class="col-md-4">
-        <span class="type-example"></span>
-      </div>
-      <div class="col-md-4"></div>
-      <div class="col-md-4"></div>
-    </div>
+      <span class="type-example"></span>
   </div>
 </section>
   
@@ -885,16 +872,6 @@
  <a href="#" class="btn btn-circle page-scroll" id="arrow-up-scroll">
                             <i class="fa fa-1x fa-angle-double-up animated"></i>
                 </a>
-
-
- <div class="container demo">
-   <div class="content">
-      <div id="large-header" class="large-header">
-         <canvas id="demo-canvas"></canvas>
-         <h1 class="main-title"><span class="thin">Explore</span> Space</h1>
-      </div>
-   </div>
-</div>
 
   <footer class="flex-rw">
   
