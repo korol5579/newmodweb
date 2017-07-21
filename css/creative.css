@@ -2109,12 +2109,10 @@ h5 {
   width: 1234px;
 }
 .custom-buttons .buttons {
-  display: table;
   height: 100%;
   width: 100%;
 }
-.custom-buttons .container {
-  display: table-cell;
+.custom-buttons .container-fluid {
   padding: 1em;
   text-align: center;
   vertical-align: middle;
