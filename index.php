@@ -873,62 +873,80 @@
                             <i class="fa fa-1x fa-angle-double-up animated"></i>
                 </a>
 
+
   <footer class="flex-rw">
-  
-  <ul class="footer-list-top">
-    <li>
-      <h4 class="footer-list-header">About Pavilion</h4></li>
-    <li><a href='/shop/about-mission' class="generic-anchor footer-list-anchor" itemprop="significantLink">ИНТЕРЕСНОЕ</a></li>
-    <li><a href='/promos.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">ШРИФТЫ</a></li>
-    <li><a href='/retailers/new-retailers.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">СЛАЙДЕРЫ</a></li>
 
-    <li><a href='/job-openings.html' itemprop="significantLink" class="generic-anchor footer-list-anchor">КНОПКИ</a></li>
+  <div class="demo">
+      <div id="large-footer" class="large-footer">
+         <canvas id="demo-canvas"></canvas>
+         <div class="container">
+           <div class="row">
+           <div class="col-sm-4">
+             <ul class="footer-list-top">
+            <li>
+              <h4 class="footer-list-header">About Pavilion</h4></li>
+            <li><a href='/shop/about-mission' class="generic-anchor footer-list-anchor" itemprop="significantLink">ИНТЕРЕСНОЕ</a></li>
+            <li><a href='/promos.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">ШРИФТЫ</a></li>
+            <li><a href='/retailers/new-retailers.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">СЛАЙДЕРЫ</a></li>
 
-    <li><a href='/shop/about-show-schedule' class="generic-anchor footer-list-anchor" itemprop="significantLink">EVENTS</a></li>
-  </ul>
-  <ul class="footer-list-top">
-    <li>
-      <h4 class="footer-list-header">The Gift Selection</h4></li>
+            <li><a href='/job-openings.html' itemprop="significantLink" class="generic-anchor footer-list-anchor">КНОПКИ</a></li>
+
+            <li><a href='/shop/about-show-schedule' class="generic-anchor footer-list-anchor" itemprop="significantLink">EVENTS</a></li>
+          </ul>
+           </div>
+           <div class="col-sm-4">
+             <ul class="footer-list-top">
+            <li>
+              <h4 class="footer-list-header">The Gift Selection</h4></li>
 
 
-    <li><a href='/Angels/cat/id/70' class="generic-anchor footer-list-anchor">ANGEL FIGURINES</a></li>
-    <li><a href='/Home-Decor/cat/id/64' class="generic-anchor footer-list-anchor">HOME DECOR</a></li>
-    <li><a href='/Mugs/cat/id/32' class="generic-anchor footer-list-anchor">MUGS</a></li>
-    <li><a href='/Pet-Lover/cat/id/108' class="generic-anchor footer-list-anchor">PET LOVER</a></li>
-    <li><a href='/Ladies-Accessories/cat/id/117' class="generic-anchor footer-list-anchor" target="_blank">HANDBAGS & JEWELRY</a></li>
-  </ul>
-  <ul class="footer-list-top">
-    <li id='help'>
-      <h4 class="footer-list-header">Please Help Me</h4></li>
-    <li><a href='/shop/about-contact' class="generic-anchor footer-list-anchor" itemprop="significantLink">CONTACT</a></li>
-    <li><a href='/faq.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">FAQ</a></li>
-    <li id='find-a-store'><a href='/shop/store-locator' class="generic-anchor footer-list-anchor" itemprop="significantLink">STORE LOCATOR</a></li>
-    <li id='user-registration'><a href='/shop/user-registration?URL=' class="generic-anchor footer-list-anchor" itemprop="significantLink">NEW USERS</a></li>
-    <li id='order-tracking'><a href='/shop/order-status' itemprop="significantLink" class="generic-anchor footer-list-anchor">ORDER STATUS</a></li>
-  </ul>
-  <section class="footer-social-section flex-rw">
-      <span class="footer-social-overlap footer-social-connect">
-      Front-end <span class="footer-social-small">with</span> Back-end
-      </span>
-      <span class="footer-social-overlap footer-social-icons-wrapper">
-      <a href="https://www.pinterest.com/paviliongift/" class="generic-anchor" target="_blank" title="Pinterest" itemprop="significantLink"><i class="fa fa-pinterest"></i></a>
-      <a href="https://www.facebook.com/paviliongift" class="generic-anchor" target="_blank" title="Facebook" itemprop="significantLink"><i class="fa fa-facebook"></i></a>
-      <a href="https://twitter.com/PavilionGiftCo" class="generic-anchor" target="_blank" title="Twitter" itemprop="significantLink"><i class="fa fa-twitter"></i></a>
-      <a href="http://instagram.com/paviliongiftcompany" class="generic-anchor" target="_blank" title="Instagram" itemprop="significantLink"><i class="fa fa-instagram"></i></a>
-      <a href="https://www.youtube.com/channel/UCYgUODvd0qXbu_LkUWpTVEg" class="generic-anchor" target="_blank" title="Youtube" itemprop="significantLink"><i class="fa fa-youtube"></i></a>
-      <a href="https://plus.google.com/+Paviliongift/posts" class="generic-anchor" target="_blank" title="Google Plus" itemprop="significantLink"><i class="fa fa-google-plus"></i></a>
-      </span>
-  </section>
-  <section class="footer-bottom-section flex-rw">
-<div class="footer-bottom-wrapper">   
- <i class="fa fa-copyright" role="copyright"></i> New Mod Web 2017<!--<address class="footer-address" role="company address">Bergen, NY</address><span class="footer-bottom-rights"> - All Rights Reserved - </span> -->
-    </div>
-    <div class="footer-bottom-wrapper">
-    <a href="/terms-of-use.html" class="generic-anchor" rel="nofollow">О нас</a> | <a href="/privacy-policy.html" class="generic-anchor" rel="nofollow">О сайте</a>
+            <li><a href='/Angels/cat/id/70' class="generic-anchor footer-list-anchor">ANGEL FIGURINES</a></li>
+            <li><a href='/Home-Decor/cat/id/64' class="generic-anchor footer-list-anchor">HOME DECOR</a></li>
+            <li><a href='/Mugs/cat/id/32' class="generic-anchor footer-list-anchor">MUGS</a></li>
+            <li><a href='/Pet-Lover/cat/id/108' class="generic-anchor footer-list-anchor">PET LOVER</a></li>
+            <li><a href='/Ladies-Accessories/cat/id/117' class="generic-anchor footer-list-anchor" target="_blank">HANDBAGS & JEWELRY</a></li>
+          </ul>
+           </div>
+           <div class="col-sm-4">
+             <ul class="footer-list-top">
+            <li id='help'>
+              <h4 class="footer-list-header">Please Help Me</h4></li>
+            <li><a href='/shop/about-contact' class="generic-anchor footer-list-anchor" itemprop="significantLink">CONTACT</a></li>
+            <li><a href='/faq.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">FAQ</a></li>
+            <li id='find-a-store'><a href='/shop/store-locator' class="generic-anchor footer-list-anchor" itemprop="significantLink">STORE LOCATOR</a></li>
+            <li id='user-registration'><a href='/shop/user-registration?URL=' class="generic-anchor footer-list-anchor" itemprop="significantLink">NEW USERS</a></li>
+            <li id='order-tracking'><a href='/shop/order-status' itemprop="significantLink" class="generic-anchor footer-list-anchor">ORDER STATUS</a></li>
+          </ul>
+           </div>
+         </div>
+         </div>
+           
+          
+          
+          <section class="footer-social-section flex-rw">
+            <span class="footer-social-overlap footer-social-connect">
+            Front-end <span class="footer-social-small">with</span> Back-end
+            </span>
+            <span class="footer-social-overlap footer-social-icons-wrapper">
+            <a href="https://www.pinterest.com/paviliongift/" class="generic-anchor" target="_blank" title="Pinterest" itemprop="significantLink"><i class="fa fa-pinterest"></i></a>
+            <a href="https://www.facebook.com/paviliongift" class="generic-anchor" target="_blank" title="Facebook" itemprop="significantLink"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/PavilionGiftCo" class="generic-anchor" target="_blank" title="Twitter" itemprop="significantLink"><i class="fa fa-twitter"></i></a>
+            <a href="http://instagram.com/paviliongiftcompany" class="generic-anchor" target="_blank" title="Instagram" itemprop="significantLink"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.youtube.com/channel/UCYgUODvd0qXbu_LkUWpTVEg" class="generic-anchor" target="_blank" title="Youtube" itemprop="significantLink"><i class="fa fa-youtube"></i></a>
+            <a href="https://plus.google.com/+Paviliongift/posts" class="generic-anchor" target="_blank" title="Google Plus" itemprop="significantLink"><i class="fa fa-google-plus"></i></a>
+            </span>
+        </section>
+        <section class="footer-bottom-section flex-rw">
+      <div class="footer-bottom-wrapper">   
+       <i class="fa fa-copyright" role="copyright"></i> New Mod Web 2017<!--<address class="footer-address" role="company address">Bergen, NY</address><span class="footer-bottom-rights"> - All Rights Reserved - </span> -->
+          </div>
+          <div class="footer-bottom-wrapper">
+          <a href="/terms-of-use.html" class="generic-anchor" rel="nofollow">О нас</a> | <a href="/privacy-policy.html" class="generic-anchor" rel="nofollow">О сайте</a>
+            </div>
+        </section>
       </div>
-  </section>
+  </div>
 </footer>
-
  
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
@@ -955,9 +973,9 @@
     <script src="js/typed.js"></script>
     <script src="js/particle-network.js"></script>
     <!--cosmos-->
-      <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/TweenLite.min.js'></script>
-<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/EasePack.min.js'></script>
-<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/demo.js'></script>
+    <script src='js/TweenLite.min.js'></script>
+    <script src='js/EasePack.min.js'></script>
+    <script src='js/large-footer.js'></script>
     <!-- Theme JavaScript -->
     <script src="js/creative.js"></script>
 

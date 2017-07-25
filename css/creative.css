@@ -1449,9 +1449,6 @@ footer {
   margin-top: auto;
   width: 100%;
 }
-.footer-list-top {
-  width: 33.333%;
-}
 .footer-list-top > li {
   text-align: center;
   padding-bottom: 10px;
@@ -2305,6 +2302,7 @@ h5 {
 }
 #typing .container span {
   margin: 0 auto;
+}
 .new-mod-title {
   text-align: center;
 }
@@ -2315,4 +2313,50 @@ h5 {
   background-color: #000;
   color: #fff;
   margin-top: 10px;
+}
+/* cosmos */
+.demo {
+  width: 100%;
+  min-height: 500px;
+  overflow: hidden;
+  position: relative;
+}
+.demo canvas {
+  position: absolute;
+}
+.large-footer {
+  position: relative;
+  width: 100%;
+  background: #111;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
+  z-index: 1;
+}
+.demo .large-footer {
+  background-color: #373737;
+}
+.main-title {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: #F9F1E9;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate3d(-50%, -50%, 0);
+  transform: translate3d(-50%, -50%, 0);
+}
+.demo .main-title {
+  text-transform: uppercase;
+  font-size: 4.2em;
+  letter-spacing: 0.1em;
+}
+.main-title .thin {
+  font-weight: 200;
+}
+@media only screen and (max-width: 768px) {
+  .demo .main-title {
+    font-size: 3em;
+  }
 }
