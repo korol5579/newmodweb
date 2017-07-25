@@ -82,7 +82,6 @@
         if (e.pageX || e.pageY) {
             posx = e.pageX;
             posy = e.pageY;
-            console.log(posx, posy);
         }
         else
             if (e.clientX || e.clientY)    {
