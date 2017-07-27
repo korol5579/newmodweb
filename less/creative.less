@@ -57,8 +57,8 @@ p {
 }
 
 .text-faded {
-  color: fade(white, 70%);
-  font-size: 16px;
+  font-size: 18px;
+  padding: 15px;
 }
 
 section {
@@ -967,11 +967,13 @@ a {
 #visual-wrapper {
   position: relative;
   margin-bottom: 30px;
+  padding-top: 20px;
 }
 
 .slide-controller {
   position: absolute;
   width: 400px;
+  max-width: 100%;
   margin-left: -200px;
   left: 50%;
   bottom: -10px;
@@ -979,6 +981,12 @@ a {
   background-color: rgba(0,0,0,0.1);
   border-radius: 5px;
   text-align: center;
+}
+@media (max-width: 568px) {
+  .slide-controller {
+    width: 200px;
+    margin-left: -100px;
+  }
 }
 
 .slide-controller a img {
@@ -1036,19 +1044,16 @@ a {
 }
 
 #arrow-up-scroll {
-  margin-left: 50%;
   display: block;
   cursor: pointer;
   width: 70px;
   height: 70px;
-  margin-top: 15px;
   padding: 7px 16px;
   border-radius: 100%!important;
   color: #000;
   background: 0 0;
+  margin: 15px auto;
 }
-
-
 
 
 
@@ -1140,12 +1145,8 @@ a {
   margin-left: 0;
 }
 
-.container {
-  width: 100%;
-  max-width: 940px;
-  margin: 0 auto;
-  position: relative;
-  text-align: center;
+.clear {
+  clear: both;
 }
 
 
@@ -1630,12 +1631,11 @@ footer {
   width: 100%;
 }
 
-// .footer-list-top {
-//   width: 33.333%;
-// }
+
 .footer-list-top>li {
   text-align: center;
   padding-bottom: 10px;
+  list-style-type: none;
 }
 
 .footer-list-header {
@@ -2340,7 +2340,20 @@ h5 {
 
 //Custom colors
 #about {
-  background-color: @theme-new-secondary;
+  // background-color: @theme-new-secondary;
+  background-image: url('../img/covers/9.jpg');
+
+  .container {
+    width: 100%;
+    max-width: 940px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    border: solid #fff 1px;
+    padding: 70px 15px 70px 70px;
+    ;
+    background-color: rgba(255, 255, 255, 0.35);
+  }
 }
 
 //Анимированное лого
@@ -2348,7 +2361,7 @@ h5 {
   font: 400 1em/1.5 Neuton;
   color: black;
   text-align: center;
-  margin: 100px 0;
+  margin: 100px 0 60px;
   position: relative;
 
 
@@ -2356,11 +2369,12 @@ h5 {
     text-transform: uppercase;
     letter-spacing: .5em;
     display: inline-block;
-    border: 4px double rgba(255, 255, 255, .25);
+    /*border: 4px double rgba(255,255,255,.25);
     border-width: 4px 0;
+    width: 80em;
+    */
     top: 18%;
     left: 50%;
-    width: 80em;
     margin: 0 auto;
 
     span {
@@ -2401,7 +2415,6 @@ h5 {
 //Beauty animated btns
 .custom-buttons {
   background-color: #E1332D;
-  width: 1234px;
 
   .buttons {
     // display: table;
@@ -2619,7 +2632,7 @@ h5 {
     position: absolute;
     top: -50px;
     -webkit-transform: rotate(35deg);
-            transform: rotate(35deg);
+    transform: rotate(35deg);
     -webkit-transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
     transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
     width: 50px;
@@ -2654,13 +2667,25 @@ h5 {
 }
 
 // Typing section
-#typing .container span {
-  margin: 0 auto;
+#typing {
+
+  padding: 0;
+
+  .container span {
+    margin: 0 auto;
+  }
+
+  .type-wrapper {
+    width: 380px;
+    max-width: 100%;
+    margin: 0 auto;
+  }
 }
 
 //Заголовки 
 .new-mod-title {
   text-align: center;
+  margin-bottom: 30px;
 }
 
 //Выравнивание
@@ -2675,11 +2700,45 @@ h5 {
 }
 
 
+//puls button
+.pulse-button:hover {
+  -webkit-animation: none;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+  70% {
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    box-shadow: 0 0 0 50px rgba(90, 153, 212, 0);
+  }
+  100% {
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+    box-shadow: 0 0 0 0 rgba(90, 153, 212, 0);
+  }
+}
+
+
+.btn-pulse {
+  -webkit-animation: pulse 1.5s infinite;
+  box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.38);
+  margin-top: 40px;
+  margin-bottom: -30px;
+}
 /* cosmos */
 
 .demo {
   width: 100%;
-  min-height: 500px;
   overflow: hidden;
   position: relative;
 }

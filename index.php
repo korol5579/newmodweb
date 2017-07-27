@@ -10,6 +10,7 @@
   <meta name="author" content="">
   <meta name="keywords" content="">
   <title>Modern Web Technologies</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../img/icons/favicon.ico">
   <!--Стили для выезжающего меню-->
   <link rel="stylesheet" type="text/css" href="css/normalize.css" />
   <link rel="stylesheet" type="text/css" href="css/demo.css" />
@@ -78,11 +79,11 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center">
-          <h2 class="section-heading">Здесь представлены различные элементы из которых может
-            состоять Ваш сайт.</h2>
+          <h2 class="section-heading">Здесь представлены различные элементы из которых сегодня может
+            состоять сайт.</h2>
           <hr class="light">
           <p class="text-faded">Адаптивный дизайн, кнопки, регистрация, шрифты, различные эффекты, плагины и другие интересные фичи.</p>
-          <a href="#services" class="page-scroll btn btn-default btn-xl sr-button" id="trigger">Например</a>
+          <a href="#services" class="page-scroll btn btn-default btn-xl sr-button btn-pulse" id="trigger">Например</a>
         </div>
       </div>
     </div>
@@ -229,7 +230,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading">Примеры иконок для Вашего сайта</h2>
+          <h2 class="section-heading">Примеры иконок</h2>
           <hr class="primary">
         </div>
       </div>
@@ -239,29 +240,29 @@
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
             <i class="fa fa-4x fa-paper-plane-o sr-icons"></i>
-            <h3>Sturdy Templates</h3>
-            <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+            <h3>Lorem Ipsum</h3>
+            <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
             <i class="fa fa-4x fa-thumbs-o-up  sr-icons"></i>
-            <h3>Ready to Ship</h3>
-            <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+            <h3>Lorem Ipsum</h3>
+            <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
-            <i class="fa fa-4x fa-bars text-primary sr-icons"></i>
-            <h3>Up to Date</h3>
-            <p class="text-muted">We update dependencies to keep things fresh.</p>
+            <i class="fa fa-4x fa-bars  sr-icons"></i>
+            <h3>Lorem Ipsum</h3>
+            <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
-            <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
-            <h3>Made with Love</h3>
-            <p class="text-muted">You have to make your websites with love these days!</p>
+            <i class="fa fa-4x fa-heart  sr-icons"></i>
+            <h3>Lorem Ipsum</h3>
+            <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
           </div>
         </div>
       </div>
@@ -269,29 +270,29 @@
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
             <i class="fa fa-4x fa-envelope-open sr-icons"></i>
-            <h3>Sturdy Templates</h3>
-            <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+            <h3>Lorem Ipsum</h3>
+            <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
             <i class="fa fa-4x fa fa-handshake-o  sr-icons"></i>
-            <h3>Ready to Ship</h3>
-            <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+            <h3>Lorem Ipsum</h3>
+            <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
-            <i class="fa fa-4x  fa-check-circle text-primary sr-icons"></i>
-            <h3>Up to Date</h3>
-            <p class="text-muted">We update dependencies to keep things fresh.</p>
+            <i class="fa fa-4x  fa-check-circle sr-icons"></i>
+            <h3>Lorem Ipsum</h3>
+            <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
-            <i class="fa fa-4x fa-eye text-primary sr-icons"></i>
-            <h3>Made with Love</h3>
-            <p class="text-muted">You have to make your websites with love these days!</p>
+            <i class="fa fa-4x fa-eye  sr-icons"></i>
+            <h3>Lorem Ipsum</h3>
+            <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
           </div>
         </div>
       </div>
@@ -318,7 +319,7 @@
     </div>
   </section>
   <hr>
-  <h2 class="new-mod-title">Эффект затемнения при наведении</h2>
+  <h2 class="new-mod-title">Эффекты при наведении на фото</h2>
   <section class="no-padding" id="portfolio">
     <div class="container-fluid">
       <div class="row no-gutter popup-gallery">
@@ -419,7 +420,7 @@
     <div class="container text-center">
       <div class="call-to-action">
         <h2>Похожие эффекты</h2>
-        <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Посмотреть</a>
+        <a class="btn btn-default btn-xl sr-button" href="#" id="open-popup-view" data-toggle="modal" data-target=".bs-example-modal-sm">Посмотреть</a>
       </div>
     </div>
   </aside>
@@ -440,16 +441,23 @@
         </ul>
       </div>
       <div class="slide-controller">
+        <a href="#" class="btn-prev"><i class="fa fa-chevron-left fa-4x" aria-hidden="true"></i></a>
+        <a href="#" class="btn-play"><i class="fa fa-play fa-4x" aria-hidden="true"></i></a>
+        <a href="#" class="btn-pause"><i class="fa fa-pause fa-4x" aria-hidden="true"></i></a>
+        <a href="#" class="btn-next"><i class="fa fa-chevron-right fa-4x" aria-hidden="true"></i></a>
+      </div>
+      <!-- <div class="slide-controller">
         <a href="#" class="btn-prev"><img src="slider_img/left.png" alt="prev slide" /></a>
         <a href="#" class="btn-play"><img src="slider_img/play.png" alt="start slide" /></a>
         <a href="#" class="btn-pause"><img src="slider_img/pause.png" alt="pause slide" /></a>
         <a href="#" class="btn-next"><img src="slider_img/right.png" alt="next slide" /></a>
-      </div>
+      </div> -->
     </div>
   </section>
   <div class="new-mod-center">
     <a href="#" class="page-scroll btn btn-default btn-xl sr-button new-mod-btn">Ещё</a>
   </div>
+  <hr>
   <h2 class="new-mod-title">Крестики нолики на css</h2>
   <div class="tic-tac-toe">
     <input class="player-1 left first-column top first-row first-diagonal turn-1" id="block1-1-1" type="radio" />
@@ -618,6 +626,7 @@
       <h3></h3><a href="">Restart</a>
     </div>
   </div>
+  <h2 class="new-mod-title">Красивые эффекты с кнопками</h2>
   <!-- Beauty animated buttons -->
   <section class="custom-buttons">
     <div class="container-fluid">
@@ -629,18 +638,18 @@
       </a>
       <!--svg hover inspired by https://codepen.io/karimbalaa/pen/qERbBY?editors=110 -->
       <!--End of Button 1 -->
-      <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-2">Hover</a>
+      <a href="#" class="btn-beauty btn-2">Hover</a>
       <!--End of Button 2 -->
-      <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-3">Hover</a>
+      <a href="#" class="btn-beauty btn-3">Hover</a>
       <!--End of Button 3 -->
-      <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-4"><span>Hover</span></a>
+      <a href="#" class="btn-beauty btn-4"><span>Hover</span></a>
       <!--End of Button 4 -->
-      <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-5">Hover</a>
+      <a href="#" class="btn-beauty btn-5">Hover</a>
       <!--End of Button 5 -->
-      <p>Follow on <a href="https://twitter.com/Dave_Conner" target="_blank">Twitter</a></p>
+      <p>Follow on <a href="#" target="_blank">Twitter</a></p>
     </div>
   </section>
-  <section id="contact">
+  <!-- <section id="contact">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -658,7 +667,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!--popup-->
   <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
     <div class="modal-dialog modal-sm" role="document">
@@ -682,9 +691,8 @@
                   <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Введите пароль">
                 </div>
                 <button type="submit" class="btn btn-primary">Войти</button>
-                <p>Забыли login или пароль?</p>
-                <br>
                 <span>И увидеть больше интересных эффектов, плагинов, фичей и возможностей.</span>
+                <p>Забыли login или пароль?</p>
               </form>
             </div>
             <div role="tabpanel" class="tab-pane" id="form-registration">
@@ -709,7 +717,7 @@
     </div>
   </div>
   <div class="container">
-    <h4>Hamburger Icon Animations</h4>
+    <h2 class="new-mod-title">Hamburger Icon Animations</h2>
     <div class="row">
       <div class="col-sm-2">
         <div class="hamburger" id="hamburger-1">
@@ -797,22 +805,26 @@
       </div>
     </div>
   </div>
+  <hr>
   <!-- Анимирование лого на CSS -->
   <div class="animated-logo">
     <p>
       Эффект на CSS
-      <span>New Modern Web</span> &mdash; Без применения JavaScript &mdash;
+      <span>
+          New Modern Web
+      </span> &mdash; Без применения JavaScript &mdash;
     </p>
   </div>
-  <!--Выезжающее слева меню на CSS-->
   <section id="typing">
     <div class="container">
-      <span class="type-example"></span>
+      <div class="type-wrapper">
+        <span class="type-example"></span>
+      </div>
     </div>
   </section>
   <a href="#" class="btn btn-circle page-scroll" id="arrow-up-scroll">
-      <i class="fa fa-1x fa-angle-double-up animated"></i>
-    </a>
+  <i class="fa fa-1x fa-angle-double-up animated"></i>
+</a>
   <footer class="flex-rw">
     <div class="demo">
       <div id="large-footer" class="large-footer">
@@ -822,62 +834,61 @@
             <div class="col-sm-4">
               <ul class="footer-list-top">
                 <li>
-                  <h4 class="footer-list-header">About Pavilion</h4></li>
-                <li><a href='/shop/about-mission' class="generic-anchor footer-list-anchor" itemprop="significantLink">ИНТЕРЕСНОЕ</a></li>
-                <li><a href='/promos.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">ШРИФТЫ</a></li>
-                <li><a href='/retailers/new-retailers.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">СЛАЙДЕРЫ</a></li>
-                <li><a href='/job-openings.html' itemprop="significantLink" class="generic-anchor footer-list-anchor">КНОПКИ</a></li>
-                <li><a href='/shop/about-show-schedule' class="generic-anchor footer-list-anchor" itemprop="significantLink">EVENTS</a></li>
+                  <h4 class="footer-list-header">Интересное</h4></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor" itemprop="significantLink" data-toggle="modal" data-target=".bs-example-modal-sm">Меню навигации</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor" itemprop="significantLink">Шрифты</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor" itemprop="significantLink">Cлайдеры</a></li>
+                <li><a href='#' itemprop="significantLink" class="generic-anchor footer-list-anchor">Кнопки</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor" itemprop="significantLink">Анимация</a></li>
               </ul>
             </div>
             <div class="col-sm-4">
               <ul class="footer-list-top">
                 <li>
-                  <h4 class="footer-list-header">The Gift Selection</h4></li>
-                <li><a href='/Angels/cat/id/70' class="generic-anchor footer-list-anchor">ANGEL FIGURINES</a></li>
-                <li><a href='/Home-Decor/cat/id/64' class="generic-anchor footer-list-anchor">HOME DECOR</a></li>
-                <li><a href='/Mugs/cat/id/32' class="generic-anchor footer-list-anchor">MUGS</a></li>
-                <li><a href='/Pet-Lover/cat/id/108' class="generic-anchor footer-list-anchor">PET LOVER</a></li>
-                <li><a href='/Ladies-Accessories/cat/id/117' class="generic-anchor footer-list-anchor" target="_blank">HANDBAGS & JEWELRY</a></li>
+                  <h4 class="footer-list-header">Полезное</h4></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Htmlbook</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">HtmlAcademy</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Bootstrap</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">PET LOVER</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor" target="_blank">HANDBAGS & JEWELRY</a></li>
               </ul>
             </div>
             <div class="col-sm-4">
               <ul class="footer-list-top">
                 <li id='help'>
-                  <h4 class="footer-list-header">Please Help Me</h4></li>
-                <li><a href='/shop/about-contact' class="generic-anchor footer-list-anchor" itemprop="significantLink">CONTACT</a></li>
-                <li><a href='/faq.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">FAQ</a></li>
-                <li id='find-a-store'><a href='/shop/store-locator' class="generic-anchor footer-list-anchor" itemprop="significantLink">STORE LOCATOR</a></li>
-                <li id='user-registration'><a href='/shop/user-registration?URL=' class="generic-anchor footer-list-anchor" itemprop="significantLink">NEW USERS</a></li>
-                <li id='order-tracking'><a href='/shop/order-status' itemprop="significantLink" class="generic-anchor footer-list-anchor">ORDER STATUS</a></li>
-              </ul>
+                  <!--  <h4 class="footer-list-header">Please Help Me</h4></li>
+<li><a href='/shop/about-contact' class="generic-anchor footer-list-anchor" itemprop="significantLink">CONTACT</a></li>
+<li><a href='/faq.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">FAQ</a></li>
+<li id='find-a-store'><a href='/shop/store-locator' class="generic-anchor footer-list-anchor" itemprop="significantLink">STORE LOCATOR</a></li>
+<li id='user-registration'><a href='/shop/user-registration?URL=' class="generic-anchor footer-list-anchor" itemprop="significantLink">NEW USERS</a></li>
+<li id='order-tracking'><a href='/shop/order-status' itemprop="significantLink" class="generic-anchor footer-list-anchor">ORDER STATUS</a></li>
+</ul> -->
             </div>
           </div>
+          <!-- <section class="footer-social-section flex-rw">
+<span class="footer-social-overlap footer-social-connect">
+Front-end <span class="footer-social-small">with</span> Back-end
+</span>
+<span class="footer-social-overlap footer-social-icons-wrapper">
+<a href="https://www.pinterest.com/paviliongift/" class="generic-anchor" target="_blank" title="Pinterest" itemprop="significantLink"><i class="fa fa-pinterest"></i></a>
+<a href="https://www.facebook.com/paviliongift" class="generic-anchor" target="_blank" title="Facebook" itemprop="significantLink"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/PavilionGiftCo" class="generic-anchor" target="_blank" title="Twitter" itemprop="significantLink"><i class="fa fa-twitter"></i></a>
+<a href="http://instagram.com/paviliongiftcompany" class="generic-anchor" target="_blank" title="Instagram" itemprop="significantLink"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/channel/UCYgUODvd0qXbu_LkUWpTVEg" class="generic-anchor" target="_blank" title="Youtube" itemprop="significantLink"><i class="fa fa-youtube"></i></a>
+<a href="https://plus.google.com/+Paviliongift/posts" class="generic-anchor" target="_blank" title="Google Plus" itemprop="significantLink"><i class="fa fa-google-plus"></i></a>
+</span>
+</section> -->
+          <section class="footer-bottom-section flex-rw">
+            <div class="footer-bottom-wrapper">
+              <i class="fa fa-copyright" role="copyright"></i> New Mod Web 2017
+              <!--<address class="footer-address" role="company address">Bergen, NY</address><span class="footer-bottom-rights"> - All Rights Reserved - </span> -->
+            </div>
+            <!-- <div class="footer-bottom-wrapper">
+<a href="/terms-of-use.html" class="generic-anchor" rel="nofollow">О нас</a> | <a href="/privacy-policy.html" class="generic-anchor" rel="nofollow">О сайте</a>
+</div> -->
+          </section>
         </div>
-        <section class="footer-social-section flex-rw">
-          <span class="footer-social-overlap footer-social-connect">
-                    Front-end <span class="footer-social-small">with</span> Back-end
-          </span>
-          <span class="footer-social-overlap footer-social-icons-wrapper">
-                    <a href="https://www.pinterest.com/paviliongift/" class="generic-anchor" target="_blank" title="Pinterest" itemprop="significantLink"><i class="fa fa-pinterest"></i></a>
-                    <a href="https://www.facebook.com/paviliongift" class="generic-anchor" target="_blank" title="Facebook" itemprop="significantLink"><i class="fa fa-facebook"></i></a>
-                    <a href="https://twitter.com/PavilionGiftCo" class="generic-anchor" target="_blank" title="Twitter" itemprop="significantLink"><i class="fa fa-twitter"></i></a>
-                    <a href="http://instagram.com/paviliongiftcompany" class="generic-anchor" target="_blank" title="Instagram" itemprop="significantLink"><i class="fa fa-instagram"></i></a>
-                    <a href="https://www.youtube.com/channel/UCYgUODvd0qXbu_LkUWpTVEg" class="generic-anchor" target="_blank" title="Youtube" itemprop="significantLink"><i class="fa fa-youtube"></i></a>
-                    <a href="https://plus.google.com/+Paviliongift/posts" class="generic-anchor" target="_blank" title="Google Plus" itemprop="significantLink"><i class="fa fa-google-plus"></i></a>
-                  </span>
-        </section>
-        <section class="footer-bottom-section flex-rw">
-          <div class="footer-bottom-wrapper">
-            <i class="fa fa-copyright" role="copyright"></i> New Mod Web 2017
-            <!--<address class="footer-address" role="company address">Bergen, NY</address><span class="footer-bottom-rights"> - All Rights Reserved - </span> -->
-          </div>
-          <div class="footer-bottom-wrapper">
-            <a href="/terms-of-use.html" class="generic-anchor" rel="nofollow">О нас</a> | <a href="/privacy-policy.html" class="generic-anchor" rel="nofollow">О сайте</a>
-          </div>
-        </section>
       </div>
-    </div>
   </footer>
   <!-- jQuery -->
   <script src="vendor/jquery/jquery.min.js"></script>
