@@ -936,7 +936,7 @@ a {
   left: 50%;
   bottom: -10px;
   padding: 10px;
-  background-color: #777;
+  background-color: rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   text-align: center;
 }

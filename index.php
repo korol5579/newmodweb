@@ -440,10 +440,10 @@
         </ul>
       </div>
       <div class="slide-controller">
-        <a href="#" class="btn-prev"><img src="slider_img/btn_prev.png" alt="prev slide" /></a>
-        <a href="#" class="btn-play"><img src="slider_img/btn_play_2.png" alt="start slide" /></a>
-        <a href="#" class="btn-pause"><img src="slider_img/btn_pause.png" alt="pause slide" /></a>
-        <a href="#" class="btn-next"><img src="slider_img/btn_next.png" alt="next slide" /></a>
+        <a href="#" class="btn-prev"><img src="slider_img/left.png" alt="prev slide" /></a>
+        <a href="#" class="btn-play"><img src="slider_img/play.png" alt="start slide" /></a>
+        <a href="#" class="btn-pause"><img src="slider_img/pause.png" alt="pause slide" /></a>
+        <a href="#" class="btn-next"><img src="slider_img/right.png" alt="next slide" /></a>
       </div>
     </div>
   </section>
