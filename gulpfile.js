@@ -86,7 +86,7 @@ gulp.task('browserSync', function() {
     //     },
     // })
     browserSync.init({
-     proxy: "newmodweb.loc",
+     proxy: "newmodweb.local",
      notify: false
     })
 })
@@ -107,11 +107,3 @@ gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js'], function() 
 перезвонить
 При редактировании less gulp через watсh  отследит изменения и запустит таску less,
 а так же .html и тд*/
-
-
-
-
-
-gulp.task('hello', function() {
-    console.log('Привет, пойми что такое gulp!');
-})
