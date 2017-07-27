@@ -10,7 +10,7 @@
   <meta name="author" content="">
   <meta name="keywords" content="">
   <title>Modern Web Technologies</title>
-  <link rel="shortcut icon" type="image/x-icon" href="../img/icons/favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="img/icons/favicon.ico">
   <!--Стили для выезжающего меню-->
   <link rel="stylesheet" type="text/css" href="css/normalize.css" />
   <link rel="stylesheet" type="text/css" href="css/demo.css" />
@@ -75,7 +75,12 @@
       </div>
     </div>
   </header>
+
   <section id="about">
+    <div id="#background-container" class="background-container">
+     <div id="background-1" class="background-1"></div>
+     <div id="background-2" class="background-2"></div>
+    </div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -911,6 +916,10 @@ Front-end <span class="footer-social-small">with</span> Back-end
   <script src='js/TweenLite.min.js'></script>
   <script src='js/EasePack.min.js'></script>
   <script src='js/large-footer.js'></script>
+  <!-- Вторая секция -->
+  <script src='https://rawgit.com/searleb/portfolio-source/master/source/javascripts/d3.js'></script>
+  <script src='https://rawgit.com/searleb/portfolio-source/master/source/javascripts/trianglify.min.js'></script>
+  <script src='https://rawgit.com/searleb/portfolio-source/master/source/javascripts/velocity.js'></script>
   <!-- Theme JavaScript -->
   <script src="js/creative.js"></script>
 </body>

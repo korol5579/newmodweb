@@ -2341,7 +2341,7 @@ h5 {
 //Custom colors
 #about {
   // background-color: @theme-new-secondary;
-  background-image: url('../img/covers/9.jpg');
+  padding-top: 0;
 
   .container {
     width: 100%;
@@ -2350,8 +2350,8 @@ h5 {
     position: relative;
     text-align: center;
     border: solid #fff 1px;
-    padding: 70px 15px 70px 70px;
-    ;
+    padding-top: 30px;
+    padding-bottom: 50px;
     background-color: rgba(255, 255, 255, 0.35);
   }
 }
@@ -2788,4 +2788,21 @@ h5 {
   .demo .main-title {
     font-size: 3em;
   }
+}
+
+//Вторая секция
+.background-container{
+  position: relative;
+}
+
+.background-1{
+  position: absolute;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+.background-2{
+  position: absolute;
+  opacity: 1;
+  z-index: 0;
 }
