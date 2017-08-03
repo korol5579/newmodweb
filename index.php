@@ -75,7 +75,7 @@
     </div>
   </header>
 
-  <section id="about">
+  <section id="about" class="visible-lg-block">
     <div id="#background-container" class="background-container">
      <div id="background-1" class="background-1"></div>
      <div id="background-2" class="background-2"></div>
@@ -302,9 +302,10 @@
       </div>
     </div>
   </section>
-  <hr>
-  <h2 class="new-mod-title">Социальные кнопки</h2>
-  <section id="social-btns-wrapper">
+  <!-- show social buttons in large screens only -->
+  <hr class="visible-lg-block"">
+  <h2 class="new-mod-title visible-lg-block">Социальные кнопки</h2>
+  <section id="social-btns-wrapper" class=" visible-lg-block">
     <div class="social-btns">
       <a class="btn facebook" href="https://www.facebook.com" data-link="Facebook" title="Facebook">
           <i class="fa  fa-facebook"></i>

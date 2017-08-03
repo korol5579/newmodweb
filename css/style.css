@@ -968,6 +968,9 @@ a {
     width: 200px;
     margin-left: -100px;
   }
+  .slide-controller a {
+    margin: 5px;
+  }
 }
 .slide-controller a img {
   height: 64px;
