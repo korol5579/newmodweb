@@ -2047,7 +2047,8 @@ h5 {
 #about {
   padding-top: 0;
   position: relative;
-  height: 500px;
+  height: 600px;
+  overflow: hidden;
 }
 #about .container {
   width: 100%;

@@ -12,10 +12,9 @@
   <title>New Modern Web</title>
   <link rel="shortcut icon" type="image/x-icon" href="img/icons/favicon.ico">
   <!--Стили для выезжающего меню-->
-  <link rel="stylesheet" type="text/css" href="css/normalize.css" />
-  <link rel="stylesheet" type="text/css" href="css/demo.css" />
-  <link rel="stylesheet" type="text/css" href="css/icons.css" />
-  <link rel="stylesheet" type="text/css" href="css/component.css" />
+  <link href="css/demo.css" rel="stylesheet" type="text/css" />
+  <link href="css/icons.css" rel="stylesheet" type="text/css" />
+  <link href="css/component.css" rel="stylesheet" type="text/css" />
   <!-- Bootstrap Core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Custom Fonts -->
@@ -25,9 +24,9 @@
   <!-- Plugin CSS -->
   <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
   <!--Слайдер-->
-  <link rel="stylesheet" href="css/pignose.parallaxslider.css" />
-  <!--cosmos-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link href="css/pignose.parallaxslider.css" rel="stylesheet" />
+  <!-- cosmos -->
+  <link href="css/normalize.min.css" rel="stylesheet">
   <!-- Theme CSS -->
   <link href="css/style.css" rel="stylesheet">
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -950,7 +949,7 @@
   <!-- Bootstrap Core JavaScript - http://getbootstrap.com/javascript -->
   <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
   <!-- Plugin JavaScript -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
   <!--Вот так будет работать локально, качаем, вставляем в папку
 Подключаем вот так: <script src="js/jquery.easing.min"></script>
 -->
@@ -967,9 +966,9 @@
   <script src='js/EasePack.min.js'></script>
   <script src='js/large-footer.js'></script>
   <!-- Вторая секция -->
-  <script src='https://rawgit.com/searleb/portfolio-source/master/source/javascripts/d3.js'></script>
-  <script src='https://rawgit.com/searleb/portfolio-source/master/source/javascripts/trianglify.min.js'></script>
-  <script src='https://rawgit.com/searleb/portfolio-source/master/source/javascripts/velocity.js'></script>
+  <script src='js/d3.js'></script>
+  <script src='js/trianglify.min.js'></script>
+  <script src='js/velocity.js'></script>
   <!-- Theme JavaScript -->
   <script src="js/script.js"></script>
 </body>
