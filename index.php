@@ -7,9 +7,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
-  <meta name="author" content="">
+  <!-- <meta name="author" content=""> -->
   <meta name="keywords" content="">
-  <title>Modern Web Technologies</title>
+  <title>New Modern Web</title>
   <link rel="shortcut icon" type="image/x-icon" href="img/icons/favicon.ico">
   <!--Стили для выезжающего меню-->
   <link rel="stylesheet" type="text/css" href="css/normalize.css" />
@@ -29,7 +29,7 @@
   <!--cosmos-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <!-- Theme CSS -->
-  <link href="css/creative.min.css" rel="stylesheet">
+  <link href="css/creative.css" rel="stylesheet">
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -101,44 +101,44 @@
         <h2 class="icon icon-world">Выезжающее меню. Дизайн и шрифты могут быть любыми по желанию</h2>
         <ul>
           <li class="icon icon-arrow-left">
-            <a class="icon icon-display" href="#">Услуги</a>
+            <a class="icon icon-display" href="#">Lorem Ipsum</a>
             <div class="mp-level">
-              <h2 class="icon icon-display">Devices</h2>
+              <h2 class="icon icon-display">Lorem Ipsum</h2>
               <ul>
                 <li class="icon icon-arrow-left">
-                  <a class="icon icon-phone" href="#">Mobile Phones</a>
+                  <a class="icon icon-phone" href="#">Lorem Ipsum</a>
                   <div class="mp-level">
-                    <h2>Mobile Phones</h2>
+                    <h2>Lorem Ipsum</h2>
                     <ul>
-                      <li><a href="#">Super Smart Phone</a></li>
-                      <li><a href="#">Thin Magic Mobile</a></li>
-                      <li><a href="#">Performance Crusher</a></li>
-                      <li><a href="#">Futuristic Experience</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
                     </ul>
                   </div>
                 </li>
                 <li class="icon icon-arrow-left">
-                  <a class="icon icon-tv" href="#">Televisions</a>
+                  <a class="icon icon-tv" href="#">Lorem Ipsum</a>
                   <div class="mp-level">
-                    <h2>Televisions</h2>
+                    <h2>Lorem Ipsum</h2>
                     <ul>
-                      <li><a href="#">Flat Superscreen</a></li>
-                      <li><a href="#">Gigantic LED</a></li>
-                      <li><a href="#">Power Eater</a></li>
-                      <li><a href="#">3D Experience</a></li>
-                      <li><a href="#">Classic Comfort</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
                     </ul>
                   </div>
                 </li>
                 <li class="icon icon-arrow-left">
-                  <a class="icon icon-camera" href="#">Cameras</a>
+                  <a class="icon icon-camera" href="#">Lorem Ipsum</a>
                   <div class="mp-level">
-                    <h2>Cameras</h2>
+                    <h2>Lorem Ipsum</h2>
                     <ul>
-                      <li><a href="#">Smart Shot</a></li>
-                      <li><a href="#">Power Shooter</a></li>
-                      <li><a href="#">Easy Photo Maker</a></li>
-                      <li><a href="#">Super Pixel</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
+                      <li><a href="#">Lorem Ipsum</a></li>
                     </ul>
                   </div>
                 </li>
@@ -146,51 +146,51 @@
             </div>
           </li>
           <li class="icon icon-arrow-left">
-            <a class="icon icon-news" href="#">Портфолио</a>
+            <a class="icon icon-news" href="#">Lorem Ipsum</a>
             <div class="mp-level">
-              <h2 class="icon icon-news">Magazines</h2>
+              <h2 class="icon icon-news">Lorem Ipsum</h2>
               <ul>
-                <li><a href="#">National Geographic</a></li>
-                <li><a href="#">Scientific American</a></li>
-                <li><a href="#">The Spectator</a></li>
-                <li><a href="#">The Rambler</a></li>
-                <li><a href="#">Physics World</a></li>
-                <li><a href="#">The New Scientist</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
               </ul>
             </div>
           </li>
           <li class="icon icon-arrow-left">
-            <a class="icon icon-shop" href="#">Акции</a>
+            <a class="icon icon-shop" href="#">Lorem Ipsum</a>
             <div class="mp-level">
-              <h2 class="icon icon-shop">Store</h2>
+              <h2 class="icon icon-shop">Lorem Ipsum</h2>
               <ul>
                 <li class="icon icon-arrow-left">
-                  <a class="icon icon-t-shirt" href="#">Clothes</a>
+                  <a class="icon icon-t-shirt" href="#">Lorem Ipsum</a>
                   <div class="mp-level">
-                    <h2 class="icon icon-t-shirt">Clothes</h2>
+                    <h2 class="icon icon-t-shirt">Lorem Ipsum</h2>
                     <ul>
                       <li class="icon icon-arrow-left">
-                        <a class="icon icon-female" href="#">Women's Clothing</a>
+                        <a class="icon icon-female" href="#">Lorem Ipsum</a>
                         <div class="mp-level">
-                          <h2>Women's Clothing</h2>
+                          <h2>Lorem Ipsum</h2>
                           <ul>
-                            <li><a href="#">Tops</a></li>
-                            <li><a href="#">Dresses</a></li>
-                            <li><a href="#">Trousers</a></li>
-                            <li><a href="#">Shoes</a></li>
-                            <li><a href="#">Sale</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
                           </ul>
                         </div>
                       </li>
                       <li class="icon icon-arrow-left">
-                        <a class="icon icon-male" href="#">Men's Clothing</a>
+                        <a class="icon icon-male" href="#">Lorem Ipsum</a>
                         <div class="mp-level">
-                          <h2>Men's Clothing</h2>
+                          <h2>Lorem Ipsum</h2>
                           <ul>
-                            <li><a href="#">Shirts</a></li>
-                            <li><a href="#">Trousers</a></li>
-                            <li><a href="#">Shoes</a></li>
-                            <li><a href="#">Sale</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
+                            <li><a href="#">Lorem Ipsum</a></li>
                           </ul>
                         </div>
                       </li>
@@ -198,19 +198,19 @@
                   </div>
                 </li>
                 <li>
-                  <a class="icon icon-diamond" href="#">Jewelry</a>
+                  <a class="icon icon-diamond" href="#">Lorem Ipsum</a>
                 </li>
                 <li>
-                  <a class="icon icon-music" href="#">Music</a>
+                  <a class="icon icon-music" href="#">Lorem Ipsum</a>
                 </li>
                 <li>
-                  <a class="icon icon-food" href="#">Grocery</a>
+                  <a class="icon icon-food" href="#">Lorem Ipsum</a>
                 </li>
               </ul>
             </div>
           </li>
-          <li><a class="icon icon-photo" href="#">Новости</a></li>
-          <li><a class="icon icon-wallet" href="#">Цены</a></li>
+          <li><a class="icon icon-photo" href="#">Lorem Ipsum</a></li>
+          <li><a class="icon icon-wallet" href="#">Lorem Ipsum</a></li>
         </ul>
       </div>
     </nav>
@@ -304,6 +304,7 @@
     </div>
   </section>
   <hr>
+  <h2 class="new-mod-title">Социальные кнопки</h2>
   <section id="social-btns-wrapper">
     <div class="social-btns">
       <a class="btn facebook" href="https://www.facebook.com" data-link="Facebook" title="Facebook">
@@ -446,10 +447,10 @@
         </ul>
       </div>
       <div class="slide-controller">
-        <a href="#" class="btn-prev"><i class="fa fa-chevron-left fa-4x" aria-hidden="true"></i></a>
-        <a href="#" class="btn-play"><i class="fa fa-play fa-4x" aria-hidden="true"></i></a>
-        <a href="#" class="btn-pause"><i class="fa fa-pause fa-4x" aria-hidden="true"></i></a>
-        <a href="#" class="btn-next"><i class="fa fa-chevron-right fa-4x" aria-hidden="true"></i></a>
+        <a href="#" class="btn-prev"><i class="fa fa-chevron-left fa-3x" aria-hidden="true"></i></a>
+        <a href="#" class="btn-play"><i class="fa fa-play fa-3x" aria-hidden="true"></i></a>
+        <a href="#" class="btn-pause"><i class="fa fa-pause fa-3x" aria-hidden="true"></i></a>
+        <a href="#" class="btn-next"><i class="fa fa-chevron-right fa-3x" aria-hidden="true"></i></a>
       </div>
       <!-- <div class="slide-controller">
         <a href="#" class="btn-prev"><img src="slider_img/left.png" alt="prev slide" /></a>
@@ -650,8 +651,77 @@
       <a href="#" class="btn-beauty btn-4"><span>Hover</span></a>
       <!--End of Button 4 -->
       <a href="#" class="btn-beauty btn-5">Hover</a>
-      <!--End of Button 5 -->
-      <p>Follow on <a href="#" target="_blank">Twitter</a></p>
+    </div>
+  </section>
+
+  <h2 class="new-mod-title">Анимированнное лого для салона красоты</h2>
+  <section id="logo-nailroom">
+    <div class="container">
+      <div class="row">
+        
+      <div class="col-sm-6 col-sm-offset-3">
+         <!-- Лого анимированное -->
+  <svg version="1.1" id="layer-one" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 475 200" xml:space="preserve">
+    <g id="Layer1001" transform="matrix(0.26458333,0,0,0.26458333,-17.20667,13.15246)">
+      <g id="bottle">
+        <path id="cap" class="black-fill" d="M907.4,52.3v230.5h-94.9V52.3c0-5.2,21.2-9.5,47.4-9.5
+            C886.1,42.8,907.4,47,907.4,52.3z" />
+        <path id="path111" class="black-fill" d="M769,310v227.2c0,12.2,7.5,18.3,22.6,18.3h136.7
+            c15,0,22.6-6.1,22.6-18.3V310c0-12.2-7.5-18.3-22.6-18.3H791.5C776.5,291.6,769,297.8,769,310z" />
+        <path id="path113" class="white-fill-bottom" d="M928.3,291.6l-136.4,0.1c-7.1,1.9-11.3,7.8-12.7,17.8
+            l1.5,207.8c0.5,21.4,10.9,24.5,22.5,25.8l113.5,0c14.5-0.2,22.7-8,22.5-25.8l1.5-207.3C939.2,299.3,935.3,292.9,928.3,291.6z" />
+        <path id="path115" class="pink-fill" d="M882.2,523.1c14-0.8,24.1-7.7,30.2-20.8
+            c6.2-14.1,9.4-38.7,9.6-73.6c3-61.6,6.4-95.3,10.2-101.1c3.1-6.2,5.6,22.8,7.7,87l0.8-104.7c-1.4-10.6-5.1-17.1-12.4-18.3H791.9
+            c-6.8,1.8-11.1,7.2-12.7,17.9l0.8,105.2c2.1-64.2,4.6-93.2,7.7-87c3.8,5.8,7.2,39.5,10.2,101.1c0.2,34.9,3.4,59.4,9.6,73.6
+            c6.1,13,16.2,19.9,30.2,20.8H882.2z" />
+        <path id="path117" class="black-fill" d="M859.9,355.7c26.2,0,47.4,21.2,47.4,47.4c0,0,0,0,0,0
+            c0,26.2-21.2,47.4-47.4,47.4c-26.2,0-47.4-21.2-47.4-47.4C812.5,377,833.7,355.7,859.9,355.7z" />
+      </g>
+
+
+      <g id="nail">
+        <rect x="220" y="200" width="530" height="280" fill-opacity="0" />
+        <rect x="563.9" y="397.6" class="pink-fill" width="2.9" height="22.2" />
+        <polygon class="pink-fill" points="570.8,366.7 559.8,366.7 559.8,450.6 570.8,450.6 570.8,366.7          " />
+        <path class="pink-fill" d="M486.9,294.1c40,0,72.6,32.6,72.6,72.6c0,40-32.6,72.6-72.6,72.6c-40,0-72.6-32.6-72.6-72.6
+                C414.3,326.7,446.8,294.1,486.9,294.1 M486.9,282.7c-46.4,0-84,37.6-84,84c0,46.4,37.6,84,84,84s84-37.6,84-84
+                C570.8,320.3,533.2,282.7,486.9,282.7L486.9,282.7z" />
+        <path id="path101" class="pink-fill" d="M261.4,450.6h-12.6V344v-61.3h12.6v24.1
+            c11.2-14.6,28.8-24.1,48.7-24.1c33.8,0,61.3,27.4,61.3,61.3v106.6h-12.6V344h0c0-26.9-21.8-48.7-48.7-48.7
+            c-26.9,0-48.7,21.8-48.7,48.7h0V450.6z" />
+        <path id="path103" class="pink-fill" d="M634.2,450.6V309.3h-12.6v141.3H634.2z" />
+        <path id="path105" class="pink-fill" d="M697.6,450.6V206.4H685v244.2L697.6,450.6z" />
+        <path id="path107" class="pink-fill" d="M627.9,254.4c8.8,0,15.9,7.1,15.9,15.9c0,0,0,0,0,0
+            c0,8.8-7.1,15.9-15.9,15.9c-8.8,0-15.9-7.1-15.9-15.9C612,261.5,619.1,254.4,627.9,254.4z" />
+      </g>
+
+
+      <g id="room">
+        <rect x="1000" y="200" width="800" height="280" fill-opacity="0"></rect>
+        <path class="black-fill" d="M1233.6,294.1c40,0,72.6,32.6,72.6,72.6c0,40-32.6,72.6-72.6,72.6s-72.6-32.6-72.6-72.6
+                C1161,326.7,1193.6,294.1,1233.6,294.1 M1233.6,282.7c-46.4,0-84,37.6-84,84c0,46.4,37.6,84,84,84c46.4,0,84-37.6,84-84
+                C1317.6,320.3,1280,282.7,1233.6,282.7L1233.6,282.7z" />
+        <path class="black-fill" d="M1420.3,294.1c40,0,72.6,32.6,72.6,72.6c0,40-32.6,72.6-72.6,72.6s-72.6-32.6-72.6-72.6
+                C1347.7,326.7,1380.2,294.1,1420.3,294.1 M1420.3,282.7c-46.4,0-84,37.6-84,84c0,46.4,37.6,84,84,84c46.4,0,84-37.6,84-84
+                C1504.2,320.3,1466.6,282.7,1420.3,282.7L1420.3,282.7z" />
+        <path id="path87" class="black-fill" d="M1537.5,450.6V282.7h-12.6v167.9H1537.5z" />
+        <path id="path89" class="black-fill" d="M1647.4,450.6V333.1h-12.6v117.5H1647.4z" />
+        <path id="path91" class="black-fill" d="M1757.4,450.6V333.1h-12.6v117.5H1757.4z" />
+        <path id="path93" class="black-fill" d="M1647.4,344c0-33.8-27.4-61.3-61.3-61.3
+            c-33.8,0-61.3,27.4-61.3,61.3h12.6c0-26.9,21.8-48.7,48.7-48.7c26.9,0,48.7,21.8,48.7,48.7H1647.4z" />
+        <path id="path95" class="black-fill" d="M1757.4,344c0-33.8-27.4-61.3-61.3-61.3
+            c-33.8,0-61.3,27.4-61.3,61.3h12.6c0-26.9,21.8-48.7,48.7-48.7s48.7,21.8,48.7,48.7H1757.4z" />
+        <path id="path97" class="black-fill" d="M1034.8,450.6V282.7h-12.6v167.9H1034.8z" />
+        <path id="path99" class="black-fill" d="M1143.8,333.1c-5.2-28.6-30.2-50.4-60.3-50.4
+            c-33.8,0-61.3,27.4-61.3,61.3h12.6c0-26.9,21.8-48.7,48.7-48.7c23.1,0,42.5,16.1,47.5,37.8H1143.8z" />
+      </g>
+
+    </g>
+  </svg>
+      </div>
+
+
+      </div>
     </div>
   </section>
   <!-- <section id="contact">
@@ -858,9 +928,19 @@
                 <li><a href='#' class="generic-anchor footer-list-anchor" target="_blank">HANDBAGS & JEWELRY</a></li>
               </ul>
             </div>
-            <div class="col-sm-4">
+             <div class="col-sm-4">
               <ul class="footer-list-top">
-                <li id='help'>
+                <li>
+                  <h4 class="footer-list-header">Меню</h4></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">О сайте</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Примеры Landing</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Виджеты</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor" target="_blank">HANDBAGS & JEWELRY</a></li>
+              </ul>
+            </div>
+            <!-- <div class="col-sm-4">
+              <ul class="footer-list-top">
+                <li id='help'> -->
                   <!--  <h4 class="footer-list-header">Please Help Me</h4></li>
 <li><a href='/shop/about-contact' class="generic-anchor footer-list-anchor" itemprop="significantLink">CONTACT</a></li>
 <li><a href='/faq.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">FAQ</a></li>
@@ -868,8 +948,11 @@
 <li id='user-registration'><a href='/shop/user-registration?URL=' class="generic-anchor footer-list-anchor" itemprop="significantLink">NEW USERS</a></li>
 <li id='order-tracking'><a href='/shop/order-status' itemprop="significantLink" class="generic-anchor footer-list-anchor">ORDER STATUS</a></li>
 </ul> -->
-            </div>
-          </div>
+
+          <!--  </div> -->
+          </div> 
+
+          
           <!-- <section class="footer-social-section flex-rw">
 <span class="footer-social-overlap footer-social-connect">
 Front-end <span class="footer-social-small">with</span> Back-end
