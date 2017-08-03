@@ -1468,6 +1468,10 @@ footer {
   margin-top: auto;
   width: 100%;
 }
+footer .container .row {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 .footer-list-top > li {
   text-align: center;
   padding-bottom: 10px;
@@ -2057,6 +2061,9 @@ h5 {
   position: absolute;
   top: 60px;
   padding: 80px;
+}
+#logo-nailroom {
+  padding: 0;
 }
 .animated-logo {
   font: 400 1em/1.5 Neuton;

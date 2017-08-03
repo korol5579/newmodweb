@@ -653,7 +653,7 @@
       <div class="row">
         
       <div class="col-sm-6 col-sm-offset-3">
-         <!-- Лого анимированное -->
+         <!-- Анимированное лого -->
   <svg version="1.1" id="layer-one" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 475 200" xml:space="preserve">
     <g id="Layer1001" transform="matrix(0.26458333,0,0,0.26458333,-17.20667,13.15246)">
       <g id="bottle">
@@ -899,74 +899,48 @@
         <canvas id="demo-canvas"></canvas>
         <div class="container">
           <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               <ul class="footer-list-top">
                 <li>
-                  <h4 class="footer-list-header">Интересное</h4></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor" itemprop="significantLink" data-toggle="modal" data-target=".bs-example-modal-sm">Меню навигации</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor" itemprop="significantLink">Шрифты</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor" itemprop="significantLink">Cлайдеры</a></li>
-                <li><a href='#' itemprop="significantLink" class="generic-anchor footer-list-anchor">Кнопки</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor" itemprop="significantLink">Анимация</a></li>
-              </ul>
-            </div>
-            <div class="col-sm-4">
-              <ul class="footer-list-top">
-                <li>
-                  <h4 class="footer-list-header">Полезное</h4></li>
+                  <!-- <h4 class="footer-list-header">Полезное</h4></li> -->
                 <li><a href='#' class="generic-anchor footer-list-anchor">Htmlbook</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">HtmlAcademy</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">Bootstrap</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">PET LOVER</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor" target="_blank">HANDBAGS & JEWELRY</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Htmlacademy</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Learn JavaScript</a></li>
+ 
               </ul>
             </div>
-             <div class="col-sm-4">
-              <ul class="footer-list-top">
-                <li>
-                  <h4 class="footer-list-header">Меню</h4></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">О сайте</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">Примеры Landing</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">Виджеты</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor" target="_blank">HANDBAGS & JEWELRY</a></li>
-              </ul>
-            </div>
-            <!-- <div class="col-sm-4">
-              <ul class="footer-list-top">
-                <li id='help'> -->
-                  <!--  <h4 class="footer-list-header">Please Help Me</h4></li>
-<li><a href='/shop/about-contact' class="generic-anchor footer-list-anchor" itemprop="significantLink">CONTACT</a></li>
-<li><a href='/faq.html' class="generic-anchor footer-list-anchor" itemprop="significantLink">FAQ</a></li>
-<li id='find-a-store'><a href='/shop/store-locator' class="generic-anchor footer-list-anchor" itemprop="significantLink">STORE LOCATOR</a></li>
-<li id='user-registration'><a href='/shop/user-registration?URL=' class="generic-anchor footer-list-anchor" itemprop="significantLink">NEW USERS</a></li>
-<li id='order-tracking'><a href='/shop/order-status' itemprop="significantLink" class="generic-anchor footer-list-anchor">ORDER STATUS</a></li>
-</ul> -->
 
-          <!--  </div> -->
+            <div class="col-sm-3">
+              <ul class="footer-list-top">
+                <li><a href='#' class="generic-anchor footer-list-anchor">Bootstrap</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Fontawesome</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">jQuery</a></li>
+              </ul>
+            </div>
+            <div class="col-sm-3">
+              <ul class="footer-list-top">
+                <li><a href='#' class="generic-anchor footer-list-anchor">Npm</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Less</a></li>
+                <li><a href='#' class="generic-anchor footer-list-anchor">Gulp</a></li>
+              </ul>
+            </div>
+            <div class="col-sm-3">
+              <ul class="footer-list-top">
+                <li><a href='#' class="generic-anchor footer-list-anchor">Git Hub</a></li>    
+                <li><a href='#' class="generic-anchor footer-list-anchor" target="_blank">JS fiddle</a></li>
+                <li><a href='https://trello.com/' class="generic-anchor footer-list-anchor">Trello</a></li>
+              </ul>
+            </div>
+       
           </div> 
 
-          
-          <!-- <section class="footer-social-section flex-rw">
-<span class="footer-social-overlap footer-social-connect">
-Front-end <span class="footer-social-small">with</span> Back-end
-</span>
-<span class="footer-social-overlap footer-social-icons-wrapper">
-<a href="https://www.pinterest.com/paviliongift/" class="generic-anchor" target="_blank" title="Pinterest" itemprop="significantLink"><i class="fa fa-pinterest"></i></a>
-<a href="https://www.facebook.com/paviliongift" class="generic-anchor" target="_blank" title="Facebook" itemprop="significantLink"><i class="fa fa-facebook"></i></a>
-<a href="https://twitter.com/PavilionGiftCo" class="generic-anchor" target="_blank" title="Twitter" itemprop="significantLink"><i class="fa fa-twitter"></i></a>
-<a href="http://instagram.com/paviliongiftcompany" class="generic-anchor" target="_blank" title="Instagram" itemprop="significantLink"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/channel/UCYgUODvd0qXbu_LkUWpTVEg" class="generic-anchor" target="_blank" title="Youtube" itemprop="significantLink"><i class="fa fa-youtube"></i></a>
-<a href="https://plus.google.com/+Paviliongift/posts" class="generic-anchor" target="_blank" title="Google Plus" itemprop="significantLink"><i class="fa fa-google-plus"></i></a>
-</span>
-</section> -->
+
           <section class="footer-bottom-section flex-rw">
             <div class="footer-bottom-wrapper">
               <i class="fa fa-copyright" role="copyright"></i> New Mod Web 2017
               <!--<address class="footer-address" role="company address">Bergen, NY</address><span class="footer-bottom-rights"> - All Rights Reserved - </span> -->
             </div>
-            <!-- <div class="footer-bottom-wrapper">
-<a href="/terms-of-use.html" class="generic-anchor" rel="nofollow">О нас</a> | <a href="/privacy-policy.html" class="generic-anchor" rel="nofollow">О сайте</a>
-</div> -->
+    
           </section>
         </div>
       </div>
