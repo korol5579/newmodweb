@@ -717,26 +717,6 @@
       </div>
     </div>
   </section>
-  <!-- <section id="contact">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 text-center">
-          <h2 class="section-heading">Мои контакты</h2>
-          <hr class="primary">
-          <p>Вам нужен современный сайт? Добавьте меня в скайпе или напишите на почту, обсудим подробности!</p>
-        </div>
-        <div class="col-lg-4 col-lg-offset-2 text-center">
-          <i class="fa fa-skype fa-3x sr-contact"></i>
-          <p>korol5579</p>
-        </div>
-        <div class="col-lg-4 text-center">
-          <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-          <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!--popup-->
   <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
     <div class="modal-dialog modal-sm" role="document">
       <div class="modal-content">
