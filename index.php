@@ -903,32 +903,32 @@
               <ul class="footer-list-top">
                 <li>
                   <!-- <h4 class="footer-list-header">Полезное</h4></li> -->
-                <li><a href='#' class="generic-anchor footer-list-anchor">Htmlbook</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">Htmlacademy</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">Learn JavaScript</a></li>
+                <li><a href='http://htmlbook.ru/' class="generic-anchor footer-list-anchor" target="_blank">Htmlbook</a></li>
+                <li><a href='https://htmlacademy.ru/' class="generic-anchor footer-list-anchor" target="_blank">Htmlacademy</a></li>
+                <li><a href='https://learn.javascript.ru/' class="generic-anchor footer-list-anchor" target="_blank">Learn JavaScript</a></li>
  
               </ul>
             </div>
 
             <div class="col-sm-3">
               <ul class="footer-list-top">
-                <li><a href='#' class="generic-anchor footer-list-anchor">Bootstrap</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">Fontawesome</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">jQuery</a></li>
+                <li><a href='http://getbootstrap.com/' class="generic-anchor footer-list-anchor" target="_blank">Bootstrap</a></li>
+                <li><a href='http://fontawesome.io' class="generic-anchor footer-list-anchor" target="_blank">Fontawesome</a></li>
+                <li><a href='https://jquery.com/' class="generic-anchor footer-list-anchor" target="_blank">jQuery</a></li>
               </ul>
             </div>
             <div class="col-sm-3">
               <ul class="footer-list-top">
-                <li><a href='#' class="generic-anchor footer-list-anchor">Npm</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">Less</a></li>
-                <li><a href='#' class="generic-anchor footer-list-anchor">Gulp</a></li>
+                <li><a href='https://www.npmjs.com/' class="generic-anchor footer-list-anchor" target="_blank">Npm</a></li>
+                <li><a href='http://lesscss.org/' class="generic-anchor footer-list-anchor" target="_blank">Less</a></li>
+                <li><a href='https://gulpjs.com/' class="generic-anchor footer-list-anchor" target="_blank">Gulp</a></li>
               </ul>
             </div>
             <div class="col-sm-3">
               <ul class="footer-list-top">
-                <li><a href='#' class="generic-anchor footer-list-anchor">Git Hub</a></li>    
-                <li><a href='#' class="generic-anchor footer-list-anchor" target="_blank">JS fiddle</a></li>
-                <li><a href='https://trello.com/' class="generic-anchor footer-list-anchor">Trello</a></li>
+                <li><a href='https://github.com/' class="generic-anchor footer-list-anchor" target="_blank">Git Hub</a></li>    
+                <li><a href='https://jsfiddle.net/' class="generic-anchor footer-list-anchor" target="_blank">JS fiddle</a></li>
+                <li><a href='https://trello.com/' class="generic-anchor footer-list-anchor" target="_blank">Trello</a></li>
               </ul>
             </div>
        
