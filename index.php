@@ -29,7 +29,7 @@
   <!--cosmos-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <!-- Theme CSS -->
-  <link href="css/creative.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -1004,7 +1004,7 @@ Front-end <span class="footer-social-small">with</span> Back-end
   <script src='https://rawgit.com/searleb/portfolio-source/master/source/javascripts/trianglify.min.js'></script>
   <script src='https://rawgit.com/searleb/portfolio-source/master/source/javascripts/velocity.js'></script>
   <!-- Theme JavaScript -->
-  <script src="js/creative.js"></script>
+  <script src="js/script.js"></script>
 </body>
 
 </html>

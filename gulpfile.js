@@ -18,7 +18,7 @@ var banner = ['/*!\n',
 
 // Compile LESS files from /less into /css
 gulp.task('less', function() {
-    return gulp.src('less/creative.less')
+    return gulp.src('less/style.less')
         .pipe(less())
         .pipe(header(banner, { pkg: pkg }))
         .pipe(gulp.dest('css'))
@@ -29,7 +29,7 @@ gulp.task('less', function() {
 
 // Minify compiled CSS
 gulp.task('minify-css', ['less'], function() {
-    return gulp.src('css/creative.css')
+    return gulp.src('css/style.css')
         .pipe(cleanCSS({ compatibility: 'ie8' }))
         .pipe(rename({ suffix: '.min' }))
         .pipe(gulp.dest('css'))
@@ -40,7 +40,7 @@ gulp.task('minify-css', ['less'], function() {
 
 // Minify JS
 gulp.task('minify-js', function() {
-    return gulp.src('js/creative.js')
+    return gulp.src('js/script.js')
         .pipe(uglify())
         .pipe(header(banner, { pkg: pkg }))
         .pipe(rename({ suffix: '.min' }))
@@ -102,16 +102,3 @@ gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js'], function() 
     gulp.watch('js/**/*.js', browserSync.reload);
 });
 
-/*объект работы с задачами, точка означает что мы вызываем свойство или
-функцию, функция task связывает название команды и callback - обратный вызов,
-перезвонить
-При редактировании less gulp через watсh  отследит изменения и запустит таску less,
-а так же .html и тд*/
-
-
-
-
-
-gulp.task('hello', function() {
-    console.log('Привет, пойми что такое gulp!');
-})
