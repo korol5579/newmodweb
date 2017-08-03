@@ -438,12 +438,12 @@
       <div class="slide-visual">
         <!-- Slide Image Area (1000 x 424) -->
         <ul class="slide-group">
-          <li><img src="slider_img/visual_slide01.jpg" alt="slider image" /></li>
-          <li><img src="slider_img/visual_slide02.jpg" alt="slider image" /></li>
-          <li><img src="slider_img/visual_slide03.jpg" alt="slider image" /></li>
-          <li><img src="slider_img/visual_slide04.jpg" alt="slider image" /></li>
-          <li><img src="slider_img/visual_slide05.jpg" alt="slider image" /></li>
-          <li><img src="slider_img/visual_slide06.jpg" alt="slider image" /></li>
+          <li><img src="img/slider_img/visual_slide01.jpg" alt="slider image" /></li>
+          <li><img src="img/slider_img/visual_slide02.jpg" alt="slider image" /></li>
+          <li><img src="img/slider_img/visual_slide03.jpg" alt="slider image" /></li>
+          <li><img src="img/slider_img/visual_slide04.jpg" alt="slider image" /></li>
+          <li><img src="img/slider_img/visual_slide05.jpg" alt="slider image" /></li>
+          <li><img src="img/slider_img/visual_slide06.jpg" alt="slider image" /></li>
         </ul>
       </div>
       <div class="slide-controller">
@@ -452,12 +452,6 @@
         <a href="#" class="btn-pause"><i class="fa fa-pause fa-3x" aria-hidden="true"></i></a>
         <a href="#" class="btn-next"><i class="fa fa-chevron-right fa-3x" aria-hidden="true"></i></a>
       </div>
-      <!-- <div class="slide-controller">
-        <a href="#" class="btn-prev"><img src="slider_img/left.png" alt="prev slide" /></a>
-        <a href="#" class="btn-play"><img src="slider_img/play.png" alt="start slide" /></a>
-        <a href="#" class="btn-pause"><img src="slider_img/pause.png" alt="pause slide" /></a>
-        <a href="#" class="btn-next"><img src="slider_img/right.png" alt="next slide" /></a>
-      </div> -->
     </div>
   </section>
   <div class="new-mod-center">
@@ -642,7 +636,6 @@
         </svg>
         Hover
       </a>
-      <!--svg hover inspired by https://codepen.io/karimbalaa/pen/qERbBY?editors=110 -->
       <!--End of Button 1 -->
       <a href="#" class="btn-beauty btn-2">Hover</a>
       <!--End of Button 2 -->
