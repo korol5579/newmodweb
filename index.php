@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
+  <meta name="description" content="Современные веб технологии">
   <!-- <meta name="author" content=""> -->
   <meta name="keywords" content="">
   <title>New Modern Web</title>
@@ -311,14 +311,14 @@
           <i class="fa  fa-facebook"></i>
         </a>
       <a class="btn twitter" href="https://twitter.com" data-link="Twitter" title="Twitter"><i class="fa fa-twitter"></i></a>
-      <a class="btn google" href="#" data-link="Google" title="Google"><i class="fa fa-google"></i></a>
-      <a class="btn dribbble" href="#" data-link="Dribbble" title="Dribbble"><i class="fa fa-dribbble"></i></a>
-      <a class="btn skype" href="#" data-link="Skype" title="Skype"><i class="fa fa-skype"></i></a>
-      <a class="btn telegram" href="#" data-link="Telegram" title="Telegram"><i class="fa fa-telegram "></i></a>
-      <a class="btn vk" href="#" data-link="VK" title="VK"><i class="fa fa-vk"></i></a>
-      <a class="btn vimeo" href="#" data-link="Vimeo" title="Vimeo"><i class="fa fa-vimeo"></i></a>
-      <a class="btn youtube" href="#" data-link="Youtube" title="Youtube"><i class="fa fa-youtube-play"></i></a>
-      <a class="btn instagram" href="#" data-link="Instagram" title="Instagram"><i class="fa fa-instagram"></i></a>
+      <a class="btn google" href="https://plus.google.com/" data-link="Google+" title="Google+"><i class="fa fa-google"></i></a>
+      <a class="btn dribbble" href="https://dribbble.com/" data-link="Dribbble" title="Dribbble"><i class="fa fa-dribbble"></i></a>
+      <a class="btn skype" href="https://www.skype.com/ru/" data-link="Skype" title="Skype"><i class="fa fa-skype"></i></a>
+      <a class="btn telegram" href="https://telegram.org/" data-link="Telegram" title="Telegram"><i class="fa fa-telegram "></i></a>
+      <a class="btn vk" href="https://vk.com/" data-link="VK" title="VK"><i class="fa fa-vk"></i></a>
+      <a class="btn vimeo" href="https://vimeo.com" data-link="Vimeo" title="Vimeo"><i class="fa fa-vimeo"></i></a>
+      <a class="btn youtube" href="https://www.youtube.com/" data-link="Youtube" title="Youtube"><i class="fa fa-youtube-play"></i></a>
+      <a class="btn instagram" href="https://www.instagram.com/" data-link="Instagram" title="Instagram"><i class="fa fa-instagram"></i></a>
     </div>
     <div class="custom-tooltips">
       <div class="custom-tooltip"></div>

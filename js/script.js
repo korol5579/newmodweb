@@ -65,14 +65,14 @@
     $('#info-tech').fadeToggle('slow');
   })
 
-  $(document).scroll(function(event) {
-    if ($(document).scrollTop() > 100) {
-      $('#info-tech').show();
-    } else {
-      $('#info-tech').hide();
-    }
+  // $(document).scroll(function(event) {
+  //   if ($(document).scrollTop() > 100) {
+  //     $('#info-tech').show();
+  //   } else {
+  //     $('#info-tech').hide();
+  //   }
 
-  })
+  // })
 
   $('#visual').pignoseParallaxSlider({
     play: '.btn-play',
