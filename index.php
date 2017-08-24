@@ -630,7 +630,7 @@
   <!-- Beauty animated buttons -->
   <section class="custom-buttons">
     <div class="container-fluid">
-      <a href="https://twitter.com/Dave_Conner" class="btn-beauty btn-1">
+      <a href="#" class="btn-beauty btn-1">
         <svg>
           <rect x="0" y="0" fill="none" width="100%" height="100%" />
         </svg>

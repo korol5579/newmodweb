@@ -2073,6 +2073,7 @@ h5 {
   position: absolute;
   top: 60px;
   padding: 80px;
+  z-index: 3;
 }
 #logo-nailroom {
   padding: 0;
